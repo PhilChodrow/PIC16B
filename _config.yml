@@ -1,13 +1,14 @@
 # Site settings
 title: PIC16B
-subtitle: Python with Applications II 
+subtitle: Python with Applications II
 description: 
 baseurl: "/PIC16B/" # the subpath of your site, e.g. /blog/
 url: "http://philchodrow.github.io/PIC16B" # the base hostname & protocol for your site
 syllabus: "http://philchodrow.github.io/PIC16B/syllabus/"
 materials: "http://philchodrow.github.io/PIC16B/materials/"
 resources: "http://philchodrow.github.io/PIC16B/resources/" 
-schedule: "http://philchodrow.github.io/PIC16B/schedule/" 
+schedule: "http://philchodrow.github.io/PIC16B/schedule/"
+tips:  "http://philchodrow.github.io/PIC16B/tips/"
 githubdir: "philchodrow/PIC16B"
 
 # Author/user information

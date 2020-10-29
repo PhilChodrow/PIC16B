@@ -6,7 +6,7 @@ permalink: syllabus/
 
 
 
-**Welcome to PIC16A!** I'm Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
+**Welcome to PIC16B!** I'm Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
 
 <figure style="float:right">
   <img alt="Three stylized hands, appearing to made out of circuitry, reach toward each other. The hands are bright blue, green, and pink." src = "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/09/13112109/diversity-700x439.jpg" width="300" height="200"/> 
@@ -21,24 +21,60 @@ Ok, now on to the usual syllabus stuff.
 
 <div class="fancy-h1"> Course Overview </div>
 
-This course covers the fundamental constructs of the Python programming language, and then surveys some tools often used in computational and data science. Together, we will:  
-
-1. Construct Python programs using functions, loops, classes, and other tools. 
-2. Use existing modules and self-written code to solve complex problems. 
-3. Make design decisions about the programming constructs best suited to a given problem. 
-4. Write *reusable* code, by encapsulating core operations in functions and classes, and documenting these constructs carefully. 
-5. Study problems and data sets from science, economics, politics, and literature. 
-
-You can also consult the provisional [course schedule](https://philchodrow.github.io/PIC16A/schedule/). 
-
-## Official course description ##
-
-*Lecture, three hours; discussion, two hours. Enforced requisite: course 10A, Computer Science 31, or equivalent, with grades of C- or better. Python programming and programming with Python packages. General Python programming constructs; standard data structures, flow control, exception handling, and input and output. Object oriented programming with Python. Application programming with commonly used Python modules such as PyQt or tkinter, NumPy, SciPy, and NLTK. P/NP or letter grading.*
 
 
+Python offers a wide array of tools for solving problems in modern computational science. In this course, we will apply some of the most important such tools, with a focus on applications in applied mathematics, data analysis, and machine learning. Along the way, we will use industry-standard workflows for versioning, revising, and sharing code. We will also practice communicating our code to broader audiences. 
+This course has significant emphases on project-based learning and technical communication.
+
+## Primary Learning Goals
+
+1. **Core Programming**: You will create complex Python programs for solving a range of problems in computational science. 
+2. **Code Analysis**: You will collaboratively analyze and revise Python programs to improve clarity, robustness, and performance. 
+3. **Code Communication**: You will analyze and explain Python programs to nontechnical audiences in clear and engaging prose. 
+5. **Code Discovery**: You will navigate the Python ecosystem, identifying and deploying new tools suited to domain-specific problems. 
+4. **Professional Presence**: You will maintain a personal portfolio of coding projects using industry-standard tools for code management. 
+
+## Official course description 
+
+*Lecture, three hours; discussion, one hour. Requisites: Course PIC 16A or equivalent. In depth application of the Python programming language to problems arising in a variety of areas of current interest such as machine learning, computer vision, statistical analysis, numerical analysis, and data acquisition. Advanced Python programming techniques to improve computational efficiency. P/NP or letter grading*
+
+<div class="fancy-h1"> Learning Outcomes </div>
+
+Here is some of the stuff that you will be able to do by the end of PIC16B. 
+
+## Core Programming
+
+- You will deploy existing Python packages to solve problems in applied mathematics, such as differential equations; numerical linear algebra; optimization; and symbolic computation. 
+- You will be able to evaluate and compare alternative machine learning methods, and deploy them on complex data sets using existing Python packages. 
+- You will improve the performance of your computational software using database programming and multithreading. 
 
 
-<div class="fancy-h1"> Basics </div>
+## Code Analysis
+
+- You will work collaboratively to identify strengths and weakness of proposed coding solutions. 
+- You will identify multiple alternatives for solving given problems, and evaluate these alternatives based on performance, robustness, and clarity. 
+
+## Code Discovery
+
+- You will identify Python packages not directly discussed in class, evaluate their reliability, and use them to solve problems of interest. 
+- You will use resources such as StackExchange to learn about best practices for solving various coding problems and to obtain examples of effective communication about programming. 
+
+## Code Communication
+
+- You will create your own Python packages, and carefully document them. 
+- You will explain your solutions to complex computational challenges in engaging English via a weekly blog. 
+
+
+## Professional Profile
+
+- You will have and maintain a professional website that showcases your coding achievements and hosts your blog. 
+- You will use the popular version control tool `git` to manage both your coding projects and your website.  
+
+
+<!-- by week 2 -->
+
+
+<div class="fancy-h1"> Logistics </div>
 
 <!-- # Basics  -->
 
@@ -46,12 +82,10 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 <dl>
 
-<dt>Discussion A&nbsp;</dt>
-<dd>TR, 1:00pm-1:50pm (Pacific Time)</dd>
-<dt>Discussion B&nbsp;</dt>
-<dd>TR, 2:00pm-2:50pm (Pacific Time)</dd>
+<dt>Discussion&nbsp;</dt>
+<dd>TBD</dd>
 <dt>Lecture&nbsp;</dt>
-<dd>MWF, 1:00pm-1:50pm (Pacific Time)</dd>
+<dd>TBD</dd>
 </dl>
 
 ## Course Team
@@ -60,21 +94,17 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> Kirill Gura. Contact: <a href = "mailto:gura@math.ucla.edu">gura@math.ucla.edu</a> &nbsp;</dd>
-<dt> Learning Assistants &nbsp; </dt>
-<dd> TBD </dd>
+<dd> TBD &nbsp;</dd>
 </dl>
 
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> Mondays, 2:30pm-3:30pm </dd> 
-<dt> &nbsp;</dt> <dd>Tuesdays, 8:00pm-9:00pm (priority given to students outside the US) </dd>
+<dt>Phil </dt> <dd> via Zoom, TBD </dd> 
+<dt> &nbsp;</dt> <dd>via Zoom, TBD </dd>
 
-<dt> Kirill </dt> <dd>via Zoom, <b>TBD</b> </dd>
+<dt> TA </dt> <dd>via Zoom, TBD </dd>
 </dl>
-
-
 
 
 <div class="fancy-h1"> Assessment</div>
@@ -83,13 +113,11 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 30%</dd>
   <dt>Participation &nbsp;</dt>
+  <dd> 10%</dd>
+  <dt>Project &nbsp;</dt>
   <dd> 20%</dd>
-  <dt>Quizzes &nbsp;</dt>
-  <dd> 10%</dd>
-  <dt>Mini-Project &nbsp;</dt>
-  <dd> 10%</dd>
   <dt>Midterm Exam &nbsp;</dt>
   <dd> 15%</dd>
   <dt>Final Exam &nbsp;</dt>

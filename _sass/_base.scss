@@ -422,3 +422,7 @@ strong {
 .sr_only { 
     color: $background-color;
 }
+
+strong, h2, h3, h4 {
+    color: $brand-color;
+}
