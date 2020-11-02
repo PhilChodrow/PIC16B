@@ -24,7 +24,8 @@ Ok, now on to the usual syllabus stuff.
 
 
 Python offers a wide array of tools for solving problems in modern computational science. In this course, we will apply some of the most important such tools, with a focus on applications in applied mathematics, data analysis, and machine learning. Along the way, we will use industry-standard workflows for versioning, revising, and sharing code. We will also practice communicating our code to broader audiences. 
-This course has significant emphases on project-based learning and technical communication.
+This offering of PIC16B places special emphasis on project-based learning and technical communication.
+
 
 ## Primary Learning Goals
 
@@ -32,7 +33,7 @@ This course has significant emphases on project-based learning and technical com
 2. **Code Analysis**: You will collaboratively analyze and revise Python programs to improve clarity, robustness, and performance. 
 3. **Code Communication**: You will analyze and explain Python programs to nontechnical audiences in clear and engaging prose. 
 5. **Code Discovery**: You will navigate the Python ecosystem, identifying and deploying new tools suited to domain-specific problems. 
-4. **Professional Presence**: You will maintain a personal portfolio of coding projects using industry-standard tools for code management. 
+4. **Online Presence**: You will maintain a public portfolio of coding projects using industry-standard tools for code management. 
 
 ## Official course description 
 
@@ -45,9 +46,8 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 ## Core Programming
 
 - You will deploy existing Python packages to solve problems in applied mathematics, such as differential equations; numerical linear algebra; optimization; and symbolic computation. 
-- You will be able to evaluate and compare alternative machine learning methods, and deploy them on complex data sets using existing Python packages. 
+- You will evaluate and compare alternative methods in machine learning and computer vision, and deploy them on complex data sets using existing Python packages. 
 - You will improve the performance of your computational software using database programming and multithreading. 
-
 
 ## Code Analysis
 
@@ -64,19 +64,12 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 - You will create your own Python packages, and carefully document them. 
 - You will explain your solutions to complex computational challenges in engaging English via a weekly blog. 
 
-
-## Professional Profile
+## Online Profile
 
 - You will have and maintain a professional website that showcases your coding achievements and hosts your blog. 
 - You will use the popular version control tool `git` to manage both your coding projects and your website.  
 
-
-<!-- by week 2 -->
-
-
 <div class="fancy-h1"> Logistics </div>
-
-<!-- # Basics  -->
 
 ## Schedule
 
@@ -116,53 +109,52 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
   <dd> 30%</dd>
   <dt>Participation &nbsp;</dt>
   <dd> 10%</dd>
-  <dt>Project &nbsp;</dt>
-  <dd> 20%</dd>
   <dt>Midterm Exam &nbsp;</dt>
-  <dd> 15%</dd>
-  <dt>Final Exam &nbsp;</dt>
-  <dd> 25%</dd>
+  <dd> 20%</dd>
+  <dt>Project  &nbsp;</dt>
+  <dd> 40%</dd>
 </dl>
 
 ### Homework
 
-There will be approximately 8 homework assignments throughout the quarter. You should consult the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. The lowest two homework scores will be dropped. 
+Homework assignments are one of the primary ways on which you will receive feedback on your code and technical writing in this course. Each assignment will ask you to solve one or more problems **and write about them** on your blog (yes, you will have a blog). Your writing should be expository in format, so that someone who had not studied this problem before would be able to learn how to solve it from your writing. As usual, your write-up should include code with documentation, printed outputs, and expository text. Early in the course, we will go over how to turn Jupyter notebooks into posts on your blog. 
+
+The lowest two homework scores will be dropped. 
 
 ### Participation
 
-Your participation score does **not** include lecture attendance. Attendance at scheduled lecture sessions is **encouraged but optional**. You can, in principle, achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, and both individual and group activities.
+During many lecture and discussion sections, I will ask you to work in groups to solve a problem collaboratively. You can achieve full participation credit by actively engaging with your group; asking questions; generating ideas; and helping out your team members. 
 
-**Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). In this case, the preferred solution is for a group of students in similar circumstances to arrange an alternate meeting time. 
-
-Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. I will send a questionnaire during Week 0 in which you can state inability to attend discussion sections. In this case, I will contact you and we will find alternative arrangements. The lowest five grades from discussion assignments will be dropped. 
-
-### Quizzes
-
-All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
-
-Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
-
-The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
-
-### Mini-Project
-
-There will be a short group mini-project due at the end of the course. Working with your group, you will produce a small data science project in which you will read, explore, train machine learning models, and communicate your findings using a real data set. Several Discussion sections in the second half of the course will be devoted to helping you get started on the stages of this mini-project. The project will be designed to require approximately 3-5 hours of group coding sessions outside of class times. It will be possible to start on the project by the end of Week 7, and you will have all the tools you need to finish the project by the end of Week 9. 
+The lowest four participation scores will be dropped. 
 
 ### Midterm Exam
 
-The midterm exam will take place on Friday, October 30th. It will be released at 8am on the 10/30, and you will have 24 hours to complete it. The exam is intended to require approximately one hour of effort. This exam is open-book and open-notes.  
+There will be a midterm exam that will cover some core topics related to data analysis, machine learning, and scientific computation. The exam will be designed to require approximately 2 hours of effort, and will be available over a specified 24-hour period. The exam will be open notes and open internet, but collaboration on the exam is prohibited. 
 
-### Final Exam
+Provided that you obtain a score of 60% or better on the midterm exam, you will be permitted to replace this component of your grade with your grade from the project, in case the project score is higher. 
 
-The final exam for this course is scheduled for December 17th, 2020. The exame will be released at 8am on 12/17, and you will have 24 hours to complete it. The exam is intended to require approximately three hours of effort. This exam is open-book and open-notes.  
+### Project
+
+The single largest component of your grade is the project. During the course of the quarter, you will: 
+
+1. Identify an interesting and relevant problem that can be solved using computational methods. 
+2. Acquire data relevant to your problem. 
+3. Design and implement a computational solution to your problem.  
+4. Post periodic updates about your progress on your blog. 
+5. Give feedback on your peer's projects, and revise your own projects in response to peer feedback. 
+6. Host your project in a public repository as part of your code portfolio. 
+
+**Working in groups of up to three students for your project is highly encouraged**. 
+
+There are milestones throughout the quarter in which you will give updates on the status of your project. In the latter half of the course, you should expect to submit an assignment related to the project roughly every week. The lowest two scores from your project milestones will be dropped. Note, however, that missing project milestones may result in a lower quality final project, with a correspondingly lower score. 
 
 ### Extra Credit
 
-There are two ways to earn extra credit in PIC16A. 
+There are two ways to earn extra credit in PIC16B. 
 
 #### Essay
 
-At any time prior to the end of instruction (Friday, December 11, 2020), you may submit an essay of between 500 and 800 words (approximately two double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
+At any time prior to the end of instruction (Friday, June 4th, 2021), you may submit an essay of between 500 and 800 words (approximately two double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
 This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. 
 
@@ -173,7 +165,7 @@ Your essay should satisfy the following criteria, **each of which is worth one p
     - *Taken together, these articles suggest that algorithmic surveillance of marginalized groups is only increasing with time.*
     - *Although studies have revealed significant biases in Google Search, more recent work suggests that these biases may be less important in practice than once believed.*
     - *While many proposals exist for how algorithms and computation can be used to combat climate change, these proposals often overlook the role of human interpretation in implementing computer-generating guidance.*
-- **Grammar and Writing**: Your essay should be written in grammatical English, with complete sentences and careful punctuation. 
+- **Grammar and Writing**: Your essay should be written in engaging and grammatical English, with complete sentences and careful punctuation. 
 
 The [Undergraduate Writing Center](https://wp.ucla.edu/wc/) is an excellent resource for helping you craft high-quality essays. 
 
@@ -195,7 +187,7 @@ There is a discussion forum associated with this course, where you can post both
 
   We're all humans. Many of us are feeling isolated or lonely in the time of COVID. As your instructor, it brightens my day to see your faces. So, when attending lecture, **please consider turning your camera on**, if your situation admits. There is no judgement and no penalty for attending lecture in bed, in you pajamas, wrapped in a blanket, etc. Conversely, there is no penalty for leaving your camera off, and I will not inquire. 
 
-  When working in groups in your discussion section, it is especially important to engage with your group members as peers, mentors, and individuals. You are **strongly encouraged** to turn your cameras on when working with your teams. LAs rotating through the groups may ask you why your camera is off. 
+  When working in small groups, it is especially important to engage with your group members as peers, mentors, and individuals. In this setting, I **strongly encourage** you to turn on your camera. When rotating through groups, I or the TA may ask you whether there is a reason why your camera is off. 
 
 ## Microphones
 
@@ -228,7 +220,7 @@ There is a discussion forum associated with this course, where you can post both
 
 I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions *at a conceptual level.* In general, **you should not share code with your peers** in any circumstances, as this deprives them of the opportunity to learn how to operationalize their ideas. 
 
-The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code). 
+The midterm is open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code). 
 
 <div class="fancy-h1"> Getting Help </div>
 
@@ -240,15 +232,17 @@ Research indicates that students of varying cultural backgrounds may feel more o
 
 ## Coding Problems
 
-If you are struggling with a problem on a homework assignment, or wondering about an in-class activity, you have several ways to get help. In approximate order, you should try: 
+If you are struggling with a problem on a homework assignment, or wondering about an in-class activity, you have several ways to get help. In approximate order, you should: 
 
-1. Posting your question on the class discussion forum AND/OR asking your Discussion group members.  
-2. Attending the next MWF lecture period, which will often be used for relevant examples or Q&A. 
-3. Attending the office hours of either Kirill or myself. 
+1. Ask a classmate -- for example, one of your project team members. 
+2. Post your question on the class discussion forum. 
+3. Attend the office hours of either the TA or myself. 
+
+You are permitted to email me questions; however, I may instruct you to post them on the discussion forum. 
 
 ## General Academic Concerns
 
-If you have concerns about your grades, general understanding, or ability to keep up in the course, you should initiate a conversation with me. We will set up a separate meeting to make sure you have the resources you need to succeed in PIC16A. 
+If you have concerns about your grades, general understanding, or ability to keep up in the course, you should initiate a conversation with me. We will set up a separate meeting to make sure you have the resources you need to succeed in this course. 
 
 ## Screen Reader Accessibility
 
