@@ -7,7 +7,7 @@ title: Welcome!
 
 
 <figure style="float:right">
-  <img alt="A 'cute' version of the Python logo, with two intertwining cartoon snakes with large eyes. " src = "https://lh3.googleusercontent.com/proxy/BVUJe87maXfp5sbkrX-PmAlir-yXSrvwh9Q7DCdYbxywPl5LgLTHTk_iLJMSzJYiMPcJ6gehpb1wV9CD9iPRa3l-J_TvPTha4i90qfn7O6h3UfdQ3_t2vXA6VS4wW39z7MUjaUm-iCFkeQ" width="150"/> 
+  <img alt="A 'cute' version of the Python logo, with two intertwining cartoon snakes with large eyes. " src = "https://preview.redd.it/2giqz1kdg2w41.jpg?auto=webp&s=63f09e927cf7ea88010a9c74307cb367f189aea5" width="150"/> 
 </figure>
 
 PIC16B continues the study of the Python programming language from PIC16A. Python is a modern, interpreted language widely used for software development, scientific computation, and data science. Python is justly famous for its ease of use, extensive set of open-source tools, and vibrant developer community. 
