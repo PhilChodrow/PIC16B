@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Schedule (Fall 2020)
+title: Course Schedule (Spring 2021)
 permalink: schedule/
 ---
 
