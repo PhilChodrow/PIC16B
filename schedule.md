@@ -176,7 +176,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="3" class="week_marker_even"> W6 </th>
             <td>5/03</td>
             <td>M</td>
-            <td>Bias in Computer Vision</td>
+            <td>Bias in computer vision</td>
             <td></td>
             <td></td>
             <td></td>
@@ -184,7 +184,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>5/05</td>
             <td>W</td>
-            <td>Computer Vision I</td>
+            <td>Computer vision I</td>
             <td></td>
             <td></td>
             <td></td>
@@ -192,7 +192,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>5/07</td>
             <td>F</td>
-            <td>Computer Vision II</td>
+            <td>Computer vision II</td>
             <td>
                 <div class="project">Project update</div>
                 <div class = "hw-draft">HW5 draft</div>
@@ -223,7 +223,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>5/14</td>
             <td>F</td>
-            <td>Network analysis</td>
+            <td>Network analysis I</td>
             <td>
                 <div class="project">Project update</div>
                 <div class = "hw-draft">HW6 draft</div>
@@ -238,7 +238,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="3" class="week_marker_even"> W8 </th>
             <td>5/17</td>
             <td>M</td>
-            <td>Network analysis</td>
+            <td>Network analysis II</td>
             <td></td>
             <td></td>
             <td></td>
@@ -306,7 +306,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>6/02</td>
             <td>W</td>
-            <td><div class="project">Project Presentations</div></td>
+            <td><div class="project">Project presentations</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -314,7 +314,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>6/04</td>
             <td>F</td>
-            <td><div class="project">Project Presentations</div></td>
+            <td><div class="project">Project presentations</div></td>
             <td>
                 <div class="project">Project Due</div>
             </td>
