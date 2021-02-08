@@ -183,7 +183,7 @@ There is a Campuswire discussion forum associated with this course, where you ca
 
 #### Course Feedback
 
-There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit, each.
+There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit each.
 
 
 
@@ -191,7 +191,7 @@ There will be several surveys throughout the quarter which allow you to give me 
 
 ## Cameras
 
-  We're all humans. Many of us are feeling isolated or lonely in the time of COVID. As your instructor, it brightens my day to see your faces. So, when attending lecture, **please consider turning your camera on**, if your situation admits. There is no judgement and no penalty for attending lecture in bed, in you pajamas, wrapped in a blanket, etc. Conversely, there is no penalty for leaving your camera off, and I will not inquire. 
+  We're all humans. Many of us are feeling isolated or lonely in the time of COVID. As your instructor, it brightens my day to see your faces. So, when attending lecture, **please consider turning your camera on**, if your situation allows. There is no judgement and no penalty for attending lecture in bed, in you pajamas, wrapped in a blanket, etc. Conversely, there is no penalty for leaving your camera off, and I will not inquire. 
 
   When working in small groups, it is especially important to engage with your group members as peers, mentors, and individuals. In this setting, I **strongly encourage** you to turn on your camera. When rotating through groups, I or the TA may ask you whether there is a reason why your camera is off. 
 
@@ -222,6 +222,26 @@ There will be several surveys throughout the quarter which allow you to give me 
 
 <br>
 
+<div class="fancy-h1"> Advice,  Letters, and Research</div>
+
+## Advice
+
+I am always happy to talk with you about your future plans, including internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. 
+
+## Letters
+
+You are also always welcome to ask me to write a recommendation letter supporting your applications. I will usually agree to do so, although I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
+
+It is best to ask me as soon as possible so that my memories of you are clear. Even if you're not applying to grad school until the Fall, if you know that you will do so in April, then ask me in April. 
+
+## Research
+
+I have some limited capacity to accept undergraduates to perform research with me. [My research](https://www.philchodrow.com/research/) focuses broadly on *network science*, the study of interconnected systems in nature and human society. Some things I'm interested in include applications of random graph theory, social network analysis, nonlinear dynamics on networks, and machine learning.  
+
+If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.math.ucla.edu/ugrad/courses/math/168). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require expertise in networks, then taking Math 168 may not be necessary in order for us to work together.
+
+I'd like to emphasize that my ability to take students is indeed limited. If I decline to work with you, that is not a reflection on your ability to succeed in PIC16B, your potential as a researcher, or your worth as a human person. 
+
 <div class="fancy-h1"> Collaboration and Academic Honesty</div>
 
 I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions *at a conceptual level.* In general, **you should not share code with your peers** in any circumstances, as this deprives them of the opportunity to learn how to operationalize their ideas. 
@@ -241,10 +261,11 @@ Research indicates that students of varying cultural backgrounds may feel more o
 If you are struggling with a problem on a homework assignment, or wondering about an in-class activity, you have several ways to get help. In approximate order, you should: 
 
 1. Ask a classmate -- for example, one of your project team members. 
-2. Post your question on the class discussion forum. 
-3. Attend the office hours of either the TA or myself. ®
+2. Search Google or StackExchange. If you are encountering an error message, searching the text of the error message is often sufficient to resolve an issue. 
+2. Post your question on Campuswire, accompanied by a [minimal working example](https://stackoverflow.com/help/minimal-reproducible-example) or clear illustration of what you would like to achieve.  
+3. Attend the office hours of either the TA or myself. 
 
-You are permitted to email me questions; however, I may instruct you to post them on the discussion forum. 
+You may email me questions; however, I may instruct you to post them on Campuswire. 
 
 ## General Academic Concerns
 
