@@ -238,7 +238,7 @@ It is best to ask me as soon as possible so that my memories of you are clear. E
 
 I have some limited capacity to accept undergraduates to perform research with me. [My research](https://www.philchodrow.com/research/) focuses broadly on *network science*, the study of interconnected systems in nature and human society. Some things I'm interested in include applications of random graph theory, social network analysis, nonlinear dynamics on networks, and machine learning.  
 
-If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.math.ucla.edu/ugrad/courses/math/168). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require expertise in networks, then taking Math 168 may not be necessary in order for us to work together.
+If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?qry=introduction%20to%20networks&funsel=1). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require expertise in networks, then taking Math 168 may not be necessary in order for us to work together.
 
 I'd like to emphasize that my ability to take students is indeed limited. If I decline to work with you, that is not a reflection on your ability to succeed in PIC16B, your potential as a researcher, or your worth as a human person. 
 
