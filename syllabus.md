@@ -4,8 +4,6 @@ title: Syllabus
 permalink: syllabus/
 ---
 
-
-
 **Welcome to PIC16B!** I'm Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
 
 <figure style="float:right">
@@ -23,8 +21,7 @@ Ok, now on to the usual syllabus stuff.
 
 
 
-Python offers a wide array of tools for solving problems in modern computational science. In this course, we will apply some of the most important such tools, with a focus on applications in applied mathematics, data analysis, and machine learning. Along the way, we will use industry-standard workflows for versioning, revising, and sharing code. We will also practice communicating our code to broader audiences. 
-This offering of PIC16B places special emphasis on project-based learning and technical communication.
+Python offers a wide array of tools for solving problems in modern computational science. In this course, we will apply some of the most important such tools, with a focus on applications in applied mathematics, data analysis, and machine learning. Along the way, we will use industry-standard workflows for versioning, revising, and sharing code. We will also practice communicating our code to broader audiences. This offering of PIC16B places special emphasis on project-based learning and technical communication.
 
 
 ## Primary Learning Goals
@@ -119,23 +116,22 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 
 Homework assignments are one of the primary ways on which you will receive feedback on your code and technical writing in this course. Each assignment will ask you to solve one or more problems **and write about them** on your blog (yes, you will have a blog). Your writing should be expository in format, so that someone who had not studied this problem before would be able to learn how to solve it from your writing. As usual, your write-up should include code with documentation, printed outputs, and expository text. Early in the course, we will go over how to turn Jupyter notebooks into posts on your blog. 
 
-The lowest two homework scores will be dropped. 
+There are just three homework assignments in this course. Each one will stretch over two weeks. In the first week, you'll create a draft of your blog post, which you will turn in as a Jupyter Notebook. In the second week, you will give feedback on the drafts of your classmates, receive feedback on your own draft, revise your approach, and turn it into a published blog post. 
 
 ### Participation
 
-During many lecture and discussion sections, I will ask you to work in groups to solve a problem collaboratively. You can achieve full participation credit by actively engaging with your group; asking questions; generating ideas; and helping out your team members. 
+There are a few forms of required participation in PIC16A. The primary one is as a reviewer for your peers' drafts of their blog posts. In each homework assignment, you will be assigned a small group (rotating each time) of partners whose drafts you will review. **Your reviews will be graded** on thoughtfulness, helpfulness, and clarity, and counted under the Participation grade. 
 
-The lowest four participation scores will be dropped. 
 
 ### Midterm Exam
 
-There will be a midterm exam that will cover some core topics related to data analysis, machine learning, and scientific computation. The exam will be designed to require approximately 2 hours of effort, and will be available over a specified 24-hour period. The exam will be open notes and open internet, but collaboration on the exam is prohibited. 
+There will be a week-long "take-home" midterm exam. This exam will cover core topics related to the first half of the course. The format will be similar to the first stage of a homework assignment. I will pose you an extended problem with a list of requirements. You will be responsible for solving this problem and turning in the result as a Jupyter Notebook. 
 
-Provided that you obtain a score of 60% or better on the midterm exam, you will be permitted to replace this component of your grade with your grade from the project, in case the project score is higher. 
+Provided that you obtain a score of 70% or better on the midterm exam, you will be permitted to replace this component of your grade with your grade from the project, in case the latter is higher. 
 
 ### Project
 
-The single largest component of your grade is the project. During the course of the quarter, you will: 
+The single largest component of your grade is the project. Over the course of the quarter, you will: 
 
 1. Identify an interesting and relevant problem that can be solved using computational methods. 
 2. Acquire data relevant to your problem. 
@@ -146,21 +142,25 @@ The single largest component of your grade is the project. During the course of 
 
 **Working in groups of up to three students for your project is highly encouraged**. 
 
-There are milestones throughout the quarter in which you will give updates on the status of your project. In the latter half of the course, you should expect to submit an assignment related to the project roughly every week. The lowest two scores from your project milestones will be dropped. Note, however, that missing project milestones may result in a lower quality final project, with a correspondingly lower score. 
+There are graded milestones throughout the quarter in which you will give updates on the status of your project. In many Discussion sections, you will be expected to give a short presentation in which you update the class on the status of your project. Project proposals will also be graded. Toward the end of the course, there will be an exchange of peer feedback on the projects, in similar format to the homeworks. 
 
+ 
 ### Extra Credit
 
-There are two ways to earn extra credit in PIC16B. 
+There are several ways to earn extra credit in PIC16B. 
 
 #### Essay
 
-At any time prior to the end of instruction (Friday, June 4th, 2021), you may submit an essay of between 500 and 800 words (approximately two double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
+At any time prior to the end of instruction (Friday, June 4th, 2021), you may submit an essay of between 900 and 1200 words (approximately 3-4 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics are likely to receive only partial credit. 
 
-This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. 
+You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
-Your essay should satisfy the following criteria, **each of which is worth one point.**  
+This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. Because 3% is quite a lot of extra credit, I will tend to hold these essays to very high standards. Exceptional effort is required if you want all three points.
 
-- **Sources**: The essay should cite and elaborate on at least three news articles, blog posts, or other sources. Opinion articles do not count. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while at least two must be written. 
+
+Your essay should satisfy the following criteria. 
+
+- **Sources**: The essay should cite and elaborate on at least five news articles, blog posts, or other sources. Opinion articles do not count. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while at least two must be written. 
 - **Argument**: The essay should have a *thesis statement*, which is supported by the discussion of the sources. Several examples of successful thesis statements: 
     - *Taken together, these articles suggest that algorithmic surveillance of marginalized groups is only increasing with time.*
     - *Although studies have revealed significant biases in Google Search, more recent work suggests that these biases may be less important in practice than once believed.*
@@ -177,9 +177,15 @@ You are free to use any sources to which you have access. If you are having trou
 - A [list of articles](https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/) on bias in algorithms. This list is curated by Safiya Umoja Noble, author of [Algorithms of Oppression: How Search Engines Reinforce Racism](https://nyupress.org/9781479837243/algorithms-of-oppression/) and faculty here at UCLA. 
 - Cathy O'Neil, author of the excellent book *Weapons of Math Destruction*, has a [blog](https://mathbabe.org/page/2/). Many of her posts are opinion pieces (and therefore unsuitable for citation), but she always provides links to primary material, which you can use. 
 
-#### Discussion Forum
+#### Campuswire
 
-There is a discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.5% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 2% extra credit.
+There is a Campuswire discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.25% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 1% extra credit.
+
+#### Course Feedback
+
+There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit, each.
+
+
 
 <div class="fancy-h1">Learning on Zoom</div>
 
