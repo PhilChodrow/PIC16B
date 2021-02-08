@@ -72,7 +72,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Optimization</td>
             <td>    
                 <div class="project">Project teams due</div>
-                <div class = "hw-draft">HW1 draft</div>
+                <div class = "hw-draft">Blog Post 1 draft</div>
                 <!-- <div class = "assignment">HW2 assigned</div> -->
             </td>
             <td></td>
@@ -103,8 +103,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Interactive visualization I</td>
             <td>    
                 <div class="project">Project proposal due</div>
-                <div class = "hw-draft">HW2 draft</div>
-                <div class = "hw">HW1 due</div>
+                <div class = "hw">Blog Post 1 due</div>
             </td>
             <td></td>
             <td></td>
@@ -133,8 +132,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>F</td>
             <td>Databases II</td>
             <td>
-                <div class = "hw-draft">HW3 draft</div>
-                <div class = "hw">HW2 due</div>
+                <div class = "hw-draft">Blog Post 2  draft</div>
             </td>
             <td></td>
             <td></td>
@@ -164,8 +162,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Tensorflow III</td>
             <td>
                 <div class="project">Project update</div>
-                <div class = "hw-draft">HW4 draft</div>
-                <div class = "hw">HW3 due</div>
+                <div class = "hw">Blog Post 2 due</div>
+                <div class = "exam-assigned">Midterm exam assigned</div>
             </td>    
             <td></td>
             <td></td>
@@ -195,8 +193,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Computer vision II</td>
             <td>
                 <div class="project">Project update</div>
-                <div class = "hw-draft">HW5 draft</div>
-                <div class = "hw">HW4 due</div>
+                <div class = "exam">Midterm exam due</div>
             </td> 
             <td></td>
             <td></td>
@@ -226,8 +223,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Network analysis I</td>
             <td>
                 <div class="project">Project update</div>
-                <div class = "hw-draft">HW6 draft</div>
-                <div class = "hw">HW5 due</div>
+                <div class = "hw-draft">Blog Post 3  draft</div>
             </td> 
             <td></td>
             <td></td>
@@ -257,7 +253,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Agent-based simulation II</td>
             <td>
                 <div class="project">1st project submission</div>
-                <div class = "hw">HW6 due</div>
+                <div class = "hw">Blog Post 3 due</div>
             </td> 
             <td></td>
             <td></td>
@@ -287,8 +283,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>5/28</td>
             <td>F</td>
             <td>TBD</td>
-            <td>
-            </td>
+            <td></td>
             <td></td>
             <td></td>
         </tr>

@@ -36,7 +36,6 @@ If installing on macOS, **do not install Anaconda in the `opt` directory.** It i
 Still in the **Environments** tab, search for the `nb_conda` package on the right-hand side (you may need to update the index). 
 Check the box beside this package, and then click "Apply" to install. 
 
-
 ### §4. Install TensorFlow 
 
 Follow the same procedure to install the `tensorflow` package. This may take some time. While you're here, you may also wish to install some other familiar packages, such as `matplotlib` and `pandas`. In the future, if you ever attempt to import a package and encounter an error, you should attempt to install it via the Environments tab. 
