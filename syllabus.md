@@ -242,7 +242,7 @@ If you are struggling with a problem on a homework assignment, or wondering abou
 
 1. Ask a classmate -- for example, one of your project team members. 
 2. Post your question on the class discussion forum. 
-3. Attend the office hours of either the TA or myself. 
+3. Attend the office hours of either the TA or myself. ®
 
 You are permitted to email me questions; however, I may instruct you to post them on the discussion forum. 
 
