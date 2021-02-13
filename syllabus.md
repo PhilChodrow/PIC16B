@@ -19,8 +19,6 @@ Ok, now on to the usual syllabus stuff.
 
 <div class="fancy-h1"> Course Overview </div>
 
-
-
 Python offers a wide array of tools for solving problems in modern computational science. In this course, we will apply some of the most important such tools, with a focus on applications in applied mathematics, data analysis, and machine learning. Along the way, we will use industry-standard workflows for versioning, revising, and sharing code. We will also practice communicating our code to broader audiences. This offering of PIC16B places special emphasis on project-based learning and technical communication.
 
 
@@ -32,9 +30,19 @@ Python offers a wide array of tools for solving problems in modern computational
 5. **Code Discovery**: You will navigate the Python ecosystem, identifying and deploying new tools suited to domain-specific problems. 
 4. **Online Presence**: You will maintain a public portfolio of coding projects using industry-standard tools for code management. 
 
+## Prerequisites
+
+The only formal prerequisite for this course is PIC16A. In practice, I am expecting you to have **working knowledge** of the tools from PIC16A, including object-oriented programming, basic `numpy` and `pandas`, and basic machine learing using `scikit-learn`. Feeling a little rusty? That's ok! Feel free to consult [previous lecture notes and videos](https://philchodrow.github.io/PIC16A/schedule/). 
+
+### About Math
+
+There is no mathematics prerequisite for PIC16B. That said, PIC16B handles a variety of technical topics, such as linear algebra, optimization, and machine learning, for which math up to MATH 33A is certainly helpful. 
+
+If you stopped with math earlier, then that's ok! You'll have a slightly rougher ride in the first two weeks of the course. Past that, the math angle will become significantly less prominent. 
+
 ## Official course description 
 
-*Lecture, three hours; discussion, one hour. Requisites: Course PIC 16A or equivalent. In depth application of the Python programming language to problems arising in a variety of areas of current interest such as machine learning, computer vision, statistical analysis, numerical analysis, and data acquisition. Advanced Python programming techniques to improve computational efficiency. P/NP or letter grading*
+*Lecture, three hours; discussion, one hour. Requisites: Course PIC16A or equivalent. In depth application of the Python programming language to problems arising in a variety of areas of current interest such as machine learning, computer vision, statistical analysis, numerical analysis, and data acquisition. Advanced Python programming techniques to improve computational efficiency. P/NP or letter grading*
 
 <div class="fancy-h1"> Learning Outcomes </div>
 
