@@ -42,27 +42,15 @@ if not os.path.exists('datasets/noaa-ghcn/decades'):
 for i in range(12):
     begin = 1901 + i*10
     end   = begin + 9
-    sub = df[(df["year"] >= begin) && (df["year"] <= end)]
-    # path = f"datasets/noaa-ghcn/decades/test.csv"
-    # sub.to_csv(path)
-
-
-
-# df["country"] = df.ID.str[:2]
-
-df.to_csv("datasets/noaa-ghcn/temps-qcf.csv", index = False)
-
-recent_temps = df[df["Year"] >= 1990]
-df.to_csv("datasets/noaa-ghcn/recent-temps-qcf.csv", index = False)
-
-
-
+    sub = df[(df["Year"] >= begin) & (df["Year"] <= end)]
+    path = f"datasets/noaa-ghcn/decades/{begin}-{end}.csv"
+    sub.to_csv(path)
 
 # ---------
 # clean and store metadata
 # ---------
 
-path = "datasets/noaa-ghcn/ghcnm.tavg.v4.0.1.20210218.qfe.inv"
+path = "datasets/noaa-ghcn/ghcnm.tavg.v4.0.1.20210218.qcf.inv"
 colspecs = [(0, 11), (12, 20), (21, 30), (31, 37), (38, 68)]
 colnames = ["ID", "LATITUDE", "LONGITUDE", "STNELEV", "NAME"]
 
