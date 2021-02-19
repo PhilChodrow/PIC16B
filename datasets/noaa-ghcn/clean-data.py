@@ -35,6 +35,8 @@ keepnames = [name for name in df.columns if (name in ["ID", "Year"]) or "VALUE" 
 df = df[keepnames]
 df = df[df["Year"] > 1900]
 
+df.replace(-9999, np.nan)
+
 import os
 if not os.path.exists('datasets/noaa-ghcn/decades'):
     os.makedirs('datasets/noaa-ghcn/decades')
@@ -45,6 +47,7 @@ for i in range(12):
     sub = df[(df["Year"] >= begin) & (df["Year"] <= end)]
     path = f"datasets/noaa-ghcn/decades/{begin}-{end}.csv"
     sub.to_csv(path, index = False)
+
 
 # ---------
 # clean and store metadata
