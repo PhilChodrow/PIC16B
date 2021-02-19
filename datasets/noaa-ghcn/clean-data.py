@@ -44,7 +44,7 @@ for i in range(12):
     end   = begin + 9
     sub = df[(df["Year"] >= begin) & (df["Year"] <= end)]
     path = f"datasets/noaa-ghcn/decades/{begin}-{end}.csv"
-    sub.to_csv(path)
+    sub.to_csv(path, index = False)
 
 # ---------
 # clean and store metadata
