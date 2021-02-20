@@ -35,7 +35,7 @@ keepnames = [name for name in df.columns if (name in ["ID", "Year"]) or "VALUE" 
 df = df[keepnames]
 df = df[df["Year"] > 1900]
 
-df.replace(-9999, np.nan)
+df = df.replace(-9999, np.nan)
 
 import os
 if not os.path.exists('datasets/noaa-ghcn/decades'):
@@ -61,4 +61,4 @@ df = pd.read_fwf(path,
                  colspecs = colspecs,
                  names = colnames)
 
-df.to_csv("datasets/noaa-ghcn/station-metadata.csv", )
+df.to_csv("datasets/noaa-ghcn/station-metadata.csv", index = False)
