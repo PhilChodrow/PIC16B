@@ -31,7 +31,7 @@ Part of the purpose of the project is for you to demonstrate what you learned in
 - Use TensorFlow and/or OpenCV for image classification or language modeling. 
 - Analyze a large data set, using SQL to access the data. 
 - Perform and visualize a complex simulation by solving partial differential equations. Use boundary conditions drawn from real data. 
-- Analyze a networked data set using `Networkx` and other tools.   
+- Analyze a networked data set using `networkx` and other tools.   
 
 You might wish to use tools from later in the course in your project.  In this case, you'll need to learn these tools early! You can approach me as a group, and we will discuss a way to ensure that you are able to learn the needed content in time to work on your project.  
 
