@@ -27,18 +27,19 @@ Python offers a wide array of tools for solving problems in modern computational
 1. **Core Programming**: You will create complex Python programs for solving a range of problems in computational science. 
 2. **Code Analysis**: You will collaboratively analyze and revise Python programs to improve clarity, robustness, and performance. 
 3. **Code Communication**: You will analyze and explain Python programs to nontechnical audiences in clear and engaging prose. 
-5. **Code Discovery**: You will navigate the Python ecosystem, identifying and deploying new tools suited to domain-specific problems. 
+5. **Code Discovery**: You will independently navigate the Python ecosystem, identifying and deploying new tools suited to domain-specific problems. 
 4. **Online Presence**: You will maintain a public portfolio of coding projects using industry-standard tools for code management. 
 
 ## Prerequisites
 
-The only formal prerequisite for this course is PIC16A. In practice, I am expecting you to have **working knowledge** of the tools from PIC16A, including object-oriented programming, basic `numpy` and `pandas`, and basic machine learing using `scikit-learn`. Feeling a little rusty? That's ok! Feel free to consult [previous lecture notes and videos](https://philchodrow.github.io/PIC16A/schedule/). 
+The only formal prerequisite for this course is PIC16A. In practice, I am expecting you to have **working knowledge** of the tools from PIC16A, including object-oriented programming, basic `numpy` and `pandas`, and basic machine learing using `scikit-learn`. Feeling a little rusty? That's ok! Feel free to consult [lecture notes and videos](https://philchodrow.github.io/PIC16B/schedule/) from PIC16A.
+
 
 ### About Math
 
-There is no mathematics prerequisite for PIC16B. That said, PIC16B handles a variety of technical topics, such as linear algebra, optimization, and machine learning, for which math up to MATH 33A is certainly helpful. 
+There is no mathematics prerequisite for PIC16B. That said, PIC16B handles a variety of technical topics, such as linear algebra, optimization, and machine learning, for which math up to MATH 33A or 155A is certainly helpful. 
 
-If you stopped with math earlier, then that's ok! You'll have a slightly rougher ride in the first two weeks of the course. Past that, the math angle will become significantly less prominent. 
+If you stopped with math earlier, then that's ok! You'll have a slightly rougher ride in a couple weeks of the course, but I promise that we will get through together just fine. 
 
 ## Official course description 
 
@@ -80,10 +81,10 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 
 <dl>
 
-<dt>Discussion&nbsp;</dt>
-<dd>TBD</dd>
 <dt>Lecture&nbsp;</dt>
-<dd>TBD</dd>
+<dd>MWF, 10:00am-10:50am PT</dd>
+<dt>Discussion&nbsp;</dt>
+<dd>TR, 10:00am-10:50am PT</dd>
 </dl>
 
 ## Course Team
@@ -100,9 +101,37 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dl>
 <dt>Phil </dt> <dd> via Zoom, TBD </dd> 
 <dt> &nbsp;</dt> <dd>via Zoom, TBD </dd>
+<dt> &nbsp;</dt> <dd><i>and by appointment</i></dd>
 
 <dt> TA </dt> <dd>via Zoom, TBD </dd>
 </dl>
+
+## Waitlist
+
+All students on the waitlist at the end of Week 2 will be automatically enrolled in the course. 
+
+<div class="fancy-h1">Course Environment </div>
+
+<div class="blocks">
+    <div class="pink-bg">
+        <h3>Diversity</h3>
+        You deserve to be welcomed and celebrated by our community. We embrace diversity of age, background, beliefs, ethnicity, gender, gender identity, gender expression, national origin, religious affiliation, sexual orientation, and other visible and non-visible categories. <b>Discrimination is not tolerated in my classroom.</b>
+    </div>
+    <div class="lightblue-bg">
+        <h3>Title IX</h3>
+        You deserve a learning environment free from discrimination, sexual harassment, sexual assault, domestic violence, dating violence, and stalking. If you experience these behaviors or otherwise know of a Title IX violation, you have many options for support and/or reporting. The UCLA <a href="https://www.sexualharassment.ucla.edu/">Title IX Office</a> can help you navigate your options.  
+    </div>
+    <div class="yellow-bg">
+        <h3>Accessibility</h3>
+        You deserve to fully and equitably participate in our learning environment. I am actively putting effort into ensuring that course materials are screen-reader accessible, and welcome feedback on where I can do better. The UCLA <a href = "https://www.cae.ucla.edu/"> Center for Accessible Education</a> and <a href="https://dcp.ucla.edu/">Disabilities and Computing Program</a> may be able to help remove barriers to learning. 
+    </div>
+    <div class="grey-bg">
+        <h3>Names and Pronouns</h3>
+        You deserve to be addressed in the manner that reflects who you are. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their expressed preferences. 
+    </div>
+</div>
+
+<br>
 
 
 <div class="fancy-h1"> Assessment</div>
@@ -126,20 +155,21 @@ Homework assignments are one of the primary ways on which you will receive feedb
 
 There are just three homework assignments in this course. Each one will stretch over two weeks. In the first week, you'll create a draft of your blog post, which you will turn in as a Jupyter Notebook. In the second week, you will give feedback on the drafts of your classmates, receive feedback on your own draft, revise your approach, and turn it into a published blog post. 
 
+The lowest homework grade will be dropped. 
+
 ### Participation
 
 There are a few forms of required participation in PIC16A. The primary one is as a reviewer for your peers' drafts of their blog posts. In each homework assignment, you will be assigned a small group (rotating each time) of partners whose drafts you will review. **Your reviews will be graded** on thoughtfulness, helpfulness, and clarity, and counted under the Participation grade. 
-
 
 ### Midterm Exam
 
 There will be a week-long "take-home" midterm exam. This exam will cover core topics related to the first half of the course. The format will be similar to the first stage of a homework assignment. I will pose you an extended problem with a list of requirements. You will be responsible for solving this problem and turning in the result as a Jupyter Notebook. 
 
-Provided that you obtain a score of 70% or better on the midterm exam, you will be permitted to replace this component of your grade with your grade from the project, in case the latter is higher. 
+Provided that you obtain a score of 80% or better on the midterm exam, you will be permitted to replace this component of your grade with your grade from the project, in case the latter is higher. 
 
 ### Project
 
-The single largest component of your grade is the project. Over the course of the quarter, you will: 
+The single largest component of your grade is the [project](https://philchodrow.github.io/PIC16B/schedule/). Over the course of the quarter, you will: 
 
 1. Identify an interesting and relevant problem that can be solved using computational methods. 
 2. Acquire data relevant to your problem. 
@@ -148,11 +178,10 @@ The single largest component of your grade is the project. Over the course of th
 5. Give feedback on your peer's projects, and revise your own projects in response to peer feedback. 
 6. Host your project in a public repository as part of your code portfolio. 
 
-**Working in groups of up to three students for your project is highly encouraged**. 
+**You are expected to work in a group of 2-3 students on the project**. If you would like to work in a larger group, or if you would like to work on your project solo, you must first request approval from me. 
 
 There are graded milestones throughout the quarter in which you will give updates on the status of your project. In many Discussion sections, you will be expected to give a short presentation in which you update the class on the status of your project. Project proposals will also be graded. Toward the end of the course, there will be an exchange of peer feedback on the projects, in similar format to the homeworks. 
 
- 
 ### Extra Credit
 
 There are several ways to earn extra credit in PIC16B. 
@@ -160,6 +189,15 @@ There are several ways to earn extra credit in PIC16B.
 #### Essay
 
 At any time prior to the end of instruction (Friday, June 4th, 2021), you may submit an essay of between 900 and 1200 words (approximately 3-4 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics are likely to receive only partial credit. 
+
+Somewhat more generally, a successful essay will discuss:
+
+- **Concrete benefits or harms**. Examples of concrete benefits or harms include changes to one's likelihood of being arrested, granted health services, approved for a loan, or granted reasonably-priced health insurance. 
+- **Disparate impacts**. You should show that the system in question harms or benefits certain groups more than others. 
+
+**A bad example**: arguing that social media is driving political polarization (this is a good topic, but not for this prompt). 
+
+**A better example**: arguing that polarization on social media is leading to an increase in hate crimes toward specific marginalized groups. 
 
 You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
@@ -187,7 +225,7 @@ You are free to use any sources to which you have access. If you are having trou
 
 #### Campuswire
 
-There is a Campuswire discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.25% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 1% extra credit.
+There is a Campuswire discussion forum associated with this course, where you can post both questions and answers about the course content.  If you post a particularly insightful question or answer, I will (at my discretion) award you 0.25% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 1% extra credit.
 
 #### Course Feedback
 
@@ -207,43 +245,20 @@ There will be several surveys throughout the quarter which allow you to give me 
 
   In large meetings, it's good etiquette to mute your microphone when you are not actively talking. Feel free to unmute yourself when you have a question for me or for the TA. When working in small groups, leave your microphone on unless there's a lot of ambient noise. 
 
-<div class="fancy-h1">Course Environment </div>
-
-<div class="blocks">
-    <div class="pink-bg">
-        <h3>Diversity</h3>
-        You deserve to be welcomed and celebrated by our community. We embrace diversity of age, background, beliefs, ethnicity, gender, gender identity, gender expression, national origin, religious affiliation, sexual orientation, and other visible and non-visible categories. <b>Discrimination is not tolerated in my classroom.</b>
-    </div>
-    <div class="lightblue-bg">
-        <h3>Title IX</h3>
-        You deserve a learning environment free from discrimination, sexual harassment, sexual assault, domestic violence, dating violence, and stalking. If you experience these behaviors or otherwise know of a Title IX violation, you have many options for support and/or reporting. The UCLA <a href="https://www.sexualharassment.ucla.edu/">Title IX Office</a> can help you navigate your options.  
-    </div>
-    <div class="yellow-bg">
-        <h3>Accessibility</h3>
-        You deserve to fully and equitably participate in our learning environment. I am actively putting effort into ensuring that course materials are screen-reader accessible, and welcome feedback on where I can do better. The UCLA <a href = "https://www.cae.ucla.edu/"> Center for Accessible Education</a> and <a href="https://dcp.ucla.edu/">Disabilities and Computing Program</a> may be able to help remove barriers to learning. 
-    </div>
-    <div class="grey-bg">
-        <h3>Names and Pronouns</h3>
-        You deserve to be addressed in the manner that reflects who you are. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their expressed preferences. 
-    </div>
-</div>
-
-<br>
-
 <div class="fancy-h1"> Advice,  Letters, and Research</div>
 
 ## Advice
 
-I am always happy to talk with you about your future plans, including internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. 
+I am always happy to talk with you about your future plans, including courses, internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. 
 
 
 ## Letters of Recommendation
 
-You are also always welcome to ask me to write a recommendation letter supporting your applications. I will usually agree to do so, although see the exceptions below. I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
+You are also always welcome to ask me to write a recommendation letter supporting your applications for grad school, research internships, and jobs. I will usually agree to do so, although see the exceptions below. I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
 
 ### To Request a Letter
 
-Send me an email! Your email should clearly indicate  when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it's written. If possible, please include some sort of resume/CV --- it doesn't have to be official --- detailing your past experiences relevant to the application. **Please give me at least one month of advance notice** when possible. 
+Send me an email! Your email should clearly indicate  when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it's written. If you will need me to submit my letter to multiple programs, please let me know roughly how many you expect to need. If possible, please include some sort of resume/CV --- it doesn't have to be official --- detailing your past experiences relevant to the application. **Please give me at least one month of advance notice** when possible. 
 
 ### When I Won't Write a Letter
 
@@ -254,7 +269,7 @@ As a matter of moral principle, I will not write letters of recommendation for p
 - Weapons manufacturing, broadly construed;
 - Intelligence gathering (such as internships at the NSA, FBI, or any international counterpart).
 
-I am very happy to discuss this policy with any student who has questions. Conversations about when and how mathematics, data science, and programming should be used are lacking in our community. If you'd like to engage me in such a conversation, that would be great! However, this policy is non-negotiable. Therefore, if I refuse to write you a letter on these grounds, please know that it doesn't reflect on your merit or whether I like you. 
+I am very happy to discuss this policy with any student who has questions. Conversations about when and how mathematics, data science, and programming should be used are lacking in our community. If you'd like to engage me in such a conversation, that would be great! However, this policy is non-negotiable. Therefore, if I refuse to write you a letter on these grounds, please know that it doesn't reflect on your worth as a person or whether I like you. 
 
 The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
 
@@ -263,34 +278,45 @@ The [Just Mathematics Collective](https://www.justmathematicscollective.net/) ha
 
 I have some limited capacity to accept undergraduates to perform research with me. [My research](https://www.philchodrow.com/research/) focuses broadly on *network science*, the study of interconnected systems in nature and human society. Some things I'm interested in include applications of random graph theory, social network analysis, nonlinear dynamics on networks, and machine learning.  
 
-If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?qry=introduction%20to%20networks&funsel=1). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require expertise in networks, then taking Math 168 may not be necessary in order for us to work together.
+If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?qry=introduction%20to%20networks&funsel=1). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require background in network science, then taking Math 168 may not be necessary in order for us to work together.
 
-I'd like to emphasize that my ability to take students is indeed limited. If I decline to work with you, that is not a reflection on your ability to succeed in PIC16B, your potential as a researcher, or your worth as a human person. 
-
-<div class="fancy-h1"> Collaboration and Academic Honesty</div>
-
-I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions *at a conceptual level.* In general, **you should not share code with your peers** in any circumstances, as this deprives them of the opportunity to learn how to operationalize their ideas. 
-
-The midterm is open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code). 
+I'd like to emphasize that my ability to take students is indeed *limited*. If I decline to work with you, that is not a reflection on your ability to succeed in PIC16B, your potential as a researcher, your worth as a person, or whether I like you. 
 
 <div class="fancy-h1"> Getting Help </div>
 
-## Extensions Policy
+## Using Your Resources
 
-These are challenging times. From disease to internet access to political unrest, there are many reasons why you might struggle to complete your work on time. In awareness of this situation, PIC16A includes an large number of drops for homework, participation assignments, and quizzes -- around two weeks worth of drops in each category.  Additionally, there are several opportunities to earn a substantial amount of extra credit. 
+You're an advanced programming student. Now that you've got the fundamentals down, it's the right time for you to practice how to use the resources to learn independently. With this in mind, here are a few checklists that you should follow, **before** approaching me with question. 
 
-Research indicates that students of varying cultural backgrounds may feel more or less comfortable asking for extensions on assignments. Because of this, **I will generally not grant extensions** on assignments. If you are not able to complete an assignment on time, you will need to use one of your drops. If you foresee that you will be unable to complete multiple weeks worth of assignments, then please contact me and we will find a solution.   
+### Debugging
 
-## Coding Problems
+1. Carefully **read your error message**, if there is one. 
+2. **Google your error message** and see whether others have encountered a similar issue. 
+3. **Simplify**: start removing parts of your code until you are able to construct a [minimal working example](https://stackoverflow.com/help/minimal-reproducible-example) (MWE) of your issue. 
+4. Now that you have checked around a bit and created a MWE, it's the right time to post a public question on Campuswire. Show the output of your MWE, and carefully describe what you've already done in the previous steps. 
+5. Generally, if you've completed the above steps and haven't received an answer on Campuswire within 48 hours, I'll then make my beset attempt to address your question.
 
-If you are struggling with a problem on a homework assignment, or wondering about an in-class activity, you have several ways to get help. In approximate order, you should: 
+### "How do I do X"
 
-1. Ask a classmate -- for example, one of your project team members. 
-2. Search Google or StackExchange. If you are encountering an error message, searching the text of the error message is often sufficient to resolve an issue. 
-2. Post your question on Campuswire, accompanied by a [minimal working example](https://stackoverflow.com/help/minimal-reproducible-example) or clear illustration of what you would like to achieve.  
-3. Attend the office hours of either the TA or myself. 
+1. Try to describe X fairly specifically, and Google it. Adding the names of packages can be helpful. 
+  - **Example**: You want to encode a qualitative column of a Pandas data frame with an integer label. A good search for this is "pandas convert qualitative column," for which the [top result](https://pbpython.com/categorical-encoding.html) (in my browswer) is a helpful guide to precisely this kind of task. 
+2. If you know how to achieve a task that is similar to X, check the documentation of the associated tools to see whether there might be keyword arguments or methods that might help you achieve X. 
+3. If you've done the above, now is a good time to post on Campuswire. Describe what you've already tried, including any relevant resources you may have found. 
+4. Generally, if you've completed the above steps and haven't received an answer on Campuswire within 48 hours, I'll then make my beset attempt to address your question.
 
-You may email me questions; however, I may instruct you to post them on Campuswire. 
+You can always ask me questions in OH. Be ready for me to ask you which of the above steps you've completed. If you haven't done many of them, then we may walk through some of the steps together. 
+
+
+## Extensions and Accommodations
+
+PIC16B has a fair number of long-term deadlines, including your project and multi-week homeworks. I expect you to manage your schedule accordingly, and to plan ahead. 
+
+**Generally speaking, I almost never grant extensions after a deadline has past, and very rarely when the deadline is close. The primary exceptions are acute emergencies, especially health emergencies.** 
+
+You may encounter non-emergency conditions that make it difficult to complete your assignments by the stated deadline. 
+In this age of disease, isolation, and political unrest, that is very normal! 
+If you are struggling with your physical or mental health, please **approach me early** and we will have a conversation. 
+The earlier we can talk,  the more I will be able to do for you. 
 
 ## General Academic Concerns
 
