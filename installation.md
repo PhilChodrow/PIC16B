@@ -24,7 +24,7 @@ If installing on macOS, **do not install Anaconda in the `opt` directory.** It i
 1. Open Anaconda Navigator. 
 2. Navigate to the **Environments** tab. 
 3. Choose "Create."
-4. Create a Python **3.6** environment named "PIC16B." 
+4. Create a Python **3.7** environment named "PIC16B." 
 
 <figure class="image" style="width:50%">
     <img src="http://philchodrow.github.io/PIC16B/_images/create-environment.png" alt="A screencap of the Anaconda graphical installer. The prompt states 'You have chosen to install this software in the folder philchodrow on the disk Macintosh HD'">
@@ -53,7 +53,7 @@ Create a new Jupyter notebook. *Change the kernel* to the PIC16B environment tha
 
 ### §6. Verify
 
-Type the two lines below into your blank Jupyter Notebook and run them. If you do not encounter an error, then your setup was successful. Take a screencap of the result and submit it. Otherwise, contact the instructor for assistance. 
+Type the two lines below into your blank Jupyter Notebook and run them, swapping out my name for yours. If you do not encounter an error, then your setup was successful. Take a screencap of the result and submit it. Otherwise, contact the instructor for assistance. 
 
 ```python
 import tensorflow as tf
