@@ -4,3 +4,6 @@ _site
 groups.csv
 *-sol*
 *-checkpoint*
+lectures/sql/station-metadata.csv
+lectures/sql/temps.csv
+lectures/sql/temps.db
