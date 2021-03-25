@@ -9,16 +9,16 @@ class PagesSpider(CrawlSpider):
     """
     A page crawler for wikipedia.com
     
-    When run, this crawler will show all links on the Wikipedia main page. 
+    When run, this crawler will begin to crawl Wikipedia, starting with the page https://en.wikipedia.org/wiki/Penguin
     """
     
-    name = "wikipedia_pages"
+    name = "penguin-crawler"
     allowed_domains = [
         "wikipedia.org"
         ]
     
     start_urls = [
-        "https://en.wikipedia.org/wiki/Main_Page"
+        "https://en.wikipedia.org/wiki/Penguin"
     ]
     
     exclude_patterns = [
@@ -27,6 +27,7 @@ class PagesSpider(CrawlSpider):
             "Wikipedia",
             "Help",
             "Category",
+            ":"
         ]
         
     rules = (
@@ -39,12 +40,15 @@ class PagesSpider(CrawlSpider):
                             "https://en\.wikipedia\.org/wiki/Portal.*",
                             "https://en\.wikipedia\.org/wiki/Special.*",
                             "https://en\.wikipedia\.org/wiki/File.*",
-                            ".*#.*"
+                            ".*#.*",
+                            ".*Category:.*"
                         ]),
              callback = "parse"),
     )
     
     def parse(self, response):
+        
+        current = response.url.split("/")[-1]
         
         pages = response.css("a::attr(href)").extract()
         
@@ -57,5 +61,9 @@ class PagesSpider(CrawlSpider):
                     exclude = True
             
             if not exclude:
-                if "/wiki/" in page:
-                    yield {"page" : page[6:]}
+                if page[0:6] == "/wiki/":
+                    yield {"source" : current,
+                           "page" : page[6:]}
+                    
+    def parse_start_url(self, response):
+        return self.parse(response)

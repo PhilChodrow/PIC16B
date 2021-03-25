@@ -21,13 +21,13 @@ ROBOTSTXT_OBEY = True
 
 FEEDS = {'wikipedia.csv': {
         'format': 'csv',
-        'fields': ['page'],
+        'fields': ['source', 'page'],
     },}
 
 # LOG_STDOUT = True
 # LOG_FILE = 'scrapy_output.txt'
 
-CLOSESPIDER_PAGECOUNT = 3
+CLOSESPIDER_PAGECOUNT = 20
 
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
