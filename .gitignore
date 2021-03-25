@@ -7,3 +7,5 @@ groups.csv
 lectures/sql/station-metadata.csv
 lectures/sql/temps.csv
 lectures/sql/temps.db
+*.pyc
+*Untitled*
