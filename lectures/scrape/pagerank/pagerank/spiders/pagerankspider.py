@@ -71,7 +71,7 @@ class PageRankSpider(Spider):
             "move_type" : move_type
         }
             
-        # choose new link
+        # follow new link
         yield Request(link, callback = self.parse)
         
     def parse_start_url(self, response):

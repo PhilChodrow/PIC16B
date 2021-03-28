@@ -13,7 +13,7 @@ SPIDER_MODULES = ['pagerank.spiders']
 NEWSPIDER_MODULE = 'pagerank.spiders'
 
 # custom rules
-CLOSESPIDER_PAGECOUNT = 200
+CLOSESPIDER_PAGECOUNT = 100
 DUPEFILTER_CLASS = "scrapy.dupefilters.BaseDupeFilter"
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'pagerank (+http://www.yourdomain.com)'
