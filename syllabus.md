@@ -32,7 +32,7 @@ Python offers a wide array of tools for solving problems in modern computational
 
 ## Prerequisites
 
-The only formal prerequisite for this course is PIC16A. In practice, I am expecting you to have **working knowledge** of the tools from PIC16A, including object-oriented programming, basic `numpy` and `pandas`, and basic machine learing using `scikit-learn`. Feeling a little rusty? That's ok! You might want to consult some [lecture notes and videos](https://philchodrow.github.io/PIC16B/schedule/) from PIC16A.
+The only formal prerequisite for this course is PIC16A. In practice, I am expecting you to have **working knowledge** of the tools from PIC16A, including object-oriented programming, basic `numpy` and `pandas`, and basic machine learing using `scikit-learn`. Feeling a little rusty? That's ok! You might want to consult some [lecture notes and videos](https://philchodrow.github.io/PIC16A/schedule/) from PIC16A.
 
 ### About Math
 
