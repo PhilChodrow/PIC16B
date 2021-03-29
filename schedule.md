@@ -4,7 +4,7 @@ title: Course Schedule (Spring 2021)
 permalink: schedule/
 ---
 
-**PIC16B is an experimental course, and the schedule below should be regarded as tentative.** 
+**PIC16B is an experimental course, and the schedule below is tentative.** 
 
 <br>
 
