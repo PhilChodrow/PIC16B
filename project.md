@@ -73,7 +73,7 @@ The **Pitches** and **Progress Updates** count toward your Participation grade, 
 
 In your project's GitHub repository (not your blog post), you should have a top-level `README.md` file that includes a **Group Contributions Statement**. Your group contributions statement should make clear the primary ways in which each group member contributed to the project. 
 
-Additionally, I expect **all group members** to contribute to the project repository. The commit history of the project repository is public, and so I will be checking to ensure that everyone has made commits. If I see that only one group members has been committing code, I will have questions. 
+Additionally, I expect **all group members** to contribute to the project repository. The commit history of the project repository is public, and so I will be checking to ensure that everyone has made commits. If I see that only one group member has been committing code, I will have questions. 
 
 Generally speaking, all group members will receive the same project grade. The only exceptions are if I see a highly inequitable Group Contributions Statement or GitHub commit history.  
 
