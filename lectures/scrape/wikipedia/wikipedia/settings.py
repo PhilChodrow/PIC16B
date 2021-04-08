@@ -19,11 +19,6 @@ NEWSPIDER_MODULE = 'wikipedia.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-FEEDS = {'wikipedia.csv': {
-        'format': 'csv',
-        'fields': ['source', 'page'],
-    },}
-
 # LOG_STDOUT = True
 # LOG_FILE = 'scrapy_output.txt'
 

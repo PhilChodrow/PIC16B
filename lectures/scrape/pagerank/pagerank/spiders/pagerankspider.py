@@ -48,8 +48,9 @@ class PageRankSpider(Spider):
             # seeded PageRank always goes back to the starting page
             link = self.start_urls[0]
             
-            # alternatively, go back to a random, previously-visited page 
-            # by uncommenting the line below (global PageRank)
+            # alternatively, go back to a random, 
+            # previously-visited page by uncommenting the 
+            # line below (global PageRank)
             # link = np.random.choice(list(self.visited_pages))
             move_type = "teleport"
             
