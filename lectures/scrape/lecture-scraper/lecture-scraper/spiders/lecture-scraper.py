@@ -27,7 +27,8 @@
 # communicating servers. *Webscraping* refers to the act of 
 # accessing those files and programmatically saving them, or parts 
 # of them, to a chosen location (usually your computer). 
-# This is often a critical task  when writing projects that require # data from the internet. 
+# This is often a critical task  when writing projects that require
+# data from the internet. 
 
 # In these lectures, we'll focus on how to scrape HTML. HTML 
 # (HyperText Markup Language) may be fairly said to be the 
@@ -43,7 +44,8 @@
 # thing we need to do is to *activate* our Anaconda environment 
 # and then create a scrapy "project", both in the terminal. 
 
-# 1. Open a terminal and navigate to the location where you would #    like to make your scrapy project. Then, type: 
+# 1. Open a terminal and navigate to the location where you would 
+#    like to make your scrapy project. Then, type: 
 # 2. >>> conda activate PIC16B
 # 3. >>> scrapy startproject lecture
  
@@ -217,19 +219,22 @@ class QuotesSpider3(scrapy.Spider):
         
         # NEW PART HERE
         # now we need to add logic for *following links*. 
-        # After yielding the data (above), we also need to construct and yield a *Request* object with the appropriate URL,
-        # and then specifying what should happen when we get there as a *callback*
+        # After yielding the data (above), we also need to 
+        # construct and yield a *Request* object with the 
+        # appropriate URL, and then specifying what should 
+        # happen when we get there as a *callback*
         
         # find the link to the next page (it's the "next" button)
-        # the href is the part of the HTML element that actually contains
-        # the hyperlink. 
+        # the href is the part of the HTML element that actually 
+        # contains the hyperlink. 
         next_page = response.css("li.next a").attrib["href"]
         
         if next_page is not None:
             # make the full URL
             next_page = response.urljoin(next_page)
             
-            # yield a Request object. Yielding a request causes the Spider to attempt to go to the specified URL. 
+            # yield a Request object. Yielding a request causes the 
+            # Spider to attempt to go to the specified URL. 
             # The callback controls what happens when you get 
             # there. So, this line says: 
             # "go to next_page, and once you get there, do 
