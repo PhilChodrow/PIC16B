@@ -21,9 +21,8 @@ ITEM_PIPELINES = {
   'scrapy.pipelines.files.FilesPipeline': 1,
 }
 
-FILES_STORE = "test"
+FILES_STORE = "img" # this file needs to exist
 FILES_RESULT_FIELD = 'files'
-
 
 # limit number of pages
 CLOSESPIDER_PAGECOUNT = 200
