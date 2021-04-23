@@ -41,7 +41,11 @@ permalink: schedule/
         <td>W</td>
         <td>Data Manipulation I</td>
         <td></td>
-        <td></td>
+        <td>
+            <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/EDA/pd-1.ipynb">
+                Data Manipulation: Join and Reshape
+            </a>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -61,7 +65,11 @@ permalink: schedule/
         <td>
             <div class="project">Comments on pitches</div>
         </td>
-        <td></td>
+        <td>
+            <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/geo/geoviz-1.ipynb">
+                Geographic Data Visualization
+            </a>
+        </td>
         <td></td>
     </tr>
     </tbody>
@@ -72,7 +80,11 @@ permalink: schedule/
             <td>M</td>
             <td>Databases</td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/sql/sql-1.ipynb">
+                    Databases
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
@@ -88,6 +100,11 @@ permalink: schedule/
             <td>W</td>
             <td>Data Manipulation II</td>
             <td><div class = "hw">Blog Post 0</div></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/EDA/pd-2.ipynb">
+                    Advanced Split-Apply-Combine
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
@@ -103,7 +120,11 @@ permalink: schedule/
             <td>F</td>
             <td>Advanced Data Visualization</td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/ix_viz/plotly.ipynb">
+                    Visualization with Plotly
+                </a>
+            </td>
             <td></td>
         </tr>
     </tbody>
@@ -114,7 +135,11 @@ permalink: schedule/
             <td>M</td>
             <td>Web Scraping I</td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://github.com/PhilChodrow/PIC16B/blob/master/lectures/scrape/lecture-scraper/lecture-scraper/spiders/lecture-scraper.py">
+                    Retrieving Simple Data
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
@@ -132,7 +157,11 @@ permalink: schedule/
             <td>
                 <div class = "hw-draft">Blog Post 1 (draft)</div>
             </td>
-            <td></td>
+            <td>
+                <a href = "https://github.com/PhilChodrow/PIC16B/blob/master/lectures/scrape/wikipedia/wikipedia/spiders/penguincrawler.py">
+                    Navigation
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
@@ -148,9 +177,13 @@ permalink: schedule/
         <tr>
             <td>4/16</td>
             <td>F</td>
-            <td>TBD</td>
+            <td>Web scraping III</td>
             <td><div class = "hw-draft">Blog Post 1 (feedback)</div></td>
-            <td></td>
+            <td>
+                <a href = "https://github.com/PhilChodrow/PIC16B/blob/master/lectures/scrape/filedownload/filedownload/spiders/download-spider.py">
+                    Downloading Files
+                </a>
+            </td>
             <td></td>
         </tr>
     </tbody>
@@ -159,9 +192,13 @@ permalink: schedule/
             <th rowspan="6" class="week_marker_even"> W4 </th>
             <td>4/19</td>
             <td>M</td>
-            <td>Tensorflow I</td>
+            <td>Linear Algebra I</td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/math/linear-algebra-I.ipynb">
+                    Matrices, vectors, and linear systems
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
@@ -175,27 +212,37 @@ permalink: schedule/
         <tr>
             <td>4/21</td>
             <td>W</td>
-            <td>Tensorflow II</td>
-            <td>
-                <div class = "hw">Blog Post 1</div>
-            </td>
+            <td>Linear Algebra II</td>
             <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/math/linear-algebra-II.ipynb">
+                    SVD and eigen-problems
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
             <td>4/22</td>
             <td>R</td>
             <td><i>TBD</i></td>
-            <td></td>
+            <td>
+                <div class = "hw">
+                    Blog Post 1
+                </div>
+            </td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>4/23</td>
             <td>F</td>
-            <td>Tensorflow III</td>
+            <td>Optimization for Machine Learning</td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/math/optimization.ipynb">
+                    Stochastic gradient descent
+                </a>
+            </td>
             <td></td>
         </tr>
     </tbody>
@@ -204,33 +251,39 @@ permalink: schedule/
             <th rowspan="6" class="week_marker_odd"> W5 </th>
             <td>4/26</td>
             <td>M</td>
-            <td>Tensorflow IV</td>
+            <td>Tensorflow I</td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-1.ipynb">
+                    Tensors, layers, and models
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
             <td>4/27</td>
             <td>T</td>
-            <td><i>TBD</i></td>
-            <td><div class="project">Project update</div></td>
+            <td><i>Review of Machine Learning Concepts</i></td>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>4/28</td>
             <td>W</td>
-            <td>Bias in ML</td>
-            <td>
-                <div class = "hw-draft">Blog Post 2 (draft)</div>
-            </td>
+            <td>Tensorflow II</td>
             <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-2.ipynb">
+                    Convnets and image classification
+                </a>
+            </td>
             <td></td>
         </tr>
         <tr>
             <td>4/29</td>
             <td>R</td>
-            <td><i>TBD</i></td>
+            <td><div class="project">Project updates</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -238,9 +291,9 @@ permalink: schedule/
         <tr>
             <td>4/30</td>
             <td>F</td>
-            <td>Computer Vision I</td>
+            <td>Tensorflow III</td>
             <td>
-                <div class = "hw-draft">Blog Post 2 (feedback)</div>
+                <div class = "hw-draft">Blog Post 2 (draft)</div>
             </td>    
             <td></td>
             <td></td>
@@ -251,7 +304,7 @@ permalink: schedule/
             <th rowspan="5" class="week_marker_even"> W6 </th>
             <td>5/03</td>
             <td>M</td>
-            <td>Computer Vision II</td>
+            <td>Tensorflow IV</td>
             <td>
             </td>
             <td></td>
@@ -261,17 +314,17 @@ permalink: schedule/
             <td>5/04</td>
             <td>T</td>
             <td><i>TBD</i></td>
-            <td></td>
+            <td>
+                <div class = "hw-draft">Blog Post 2 (feedback)</div>
+            </td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>5/05</td>
             <td>W</td>
-            <td>Linear Algebra</td>
-            <td>
-                <div class = "hw">Blog Post 2</div>
-            </td>
+            <td>Tensorflow V</td>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
@@ -286,11 +339,12 @@ permalink: schedule/
         <tr>
             <td>5/07</td>
             <td>F</td>
-            <td>Optimization</td>
+            <td>Bias in Machine Learning</td>
             <td>
-            </td> 
+                <div class = "hw">Blog Post 2</div>
+            </td>
             <td></td>
-            <td></td>
+            <td></td> 
         </tr>
     </tbody>
     <tbody class="week">
@@ -298,7 +352,7 @@ permalink: schedule/
             <th rowspan="6" class="week_marker_odd"> W7 </th>
             <td>5/10</td>
             <td>M</td>
-            <td>Calculus and Differential Equations</td>
+            <td>Computer Vision</td>
             <td></td>
             <td></td>
             <td></td>
@@ -315,9 +369,7 @@ permalink: schedule/
             <td>5/12</td>
             <td>W</td>
             <td>Network Analysis I</td>
-            <td>
-                <div class = "hw-draft">Blog Post 3 (draft)</div>
-            </td>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
@@ -334,7 +386,7 @@ permalink: schedule/
             <td>F</td>
             <td>Network Analysis II</td>
             <td>
-                <div class = "hw-draft">Blog Post 3 (feedback)</div>
+                <div class = "hw-draft">Blog Post 3 (draft)</div>
             </td> 
             <td></td>
             <td></td>
@@ -354,17 +406,19 @@ permalink: schedule/
             <td>5/18</td>
             <td>T</td>
             <td><i>TBD</i></td>
-            <td></td>
+            <td>
+                <div class = "hw-draft">
+                    Blog Post 3 (feedback)
+                </div>
+            </td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>5/19</td>
             <td>W</td>
+            <td>Timeseries Analysis I</td>
             <td></td>
-            <td>
-                <div class = "hw">Blog Post 3</div>
-            </td>
             <td></td>
             <td></td>
         </tr>
@@ -379,8 +433,10 @@ permalink: schedule/
         <tr>
             <td>5/21</td>
             <td>F</td>
-            <td>TBD</td>
-            <td></td> 
+            <td>Timeseries Analysis II</td>
+            <td>
+                <div class = "hw">Blog Post 3</div>
+            </td> 
             <td></td>
             <td></td>
         </tr>
