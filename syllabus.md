@@ -322,8 +322,7 @@ Corollary: you are more likely to get help from others and from me if you *start
 
 ### "How do I do X"
 
-1. Try to describe X fairly specifically, and Google it. Adding the names of packages can be helpful. 
-  - **Example**: You want to encode a qualitative column of a Pandas data frame with an integer label. A good search for this is "pandas convert qualitative column," for which the [top result](https://pbpython.com/categorical-encoding.html) (in my browser) is a helpful guide to precisely this kind of task. 
+1. Try to describe X fairly specifically, and Google it. Adding the names of packages can be helpful. **Example**: You want to encode a qualitative column of a Pandas data frame with an integer label. A good search for this is "pandas convert qualitative column," for which the [top result](https://pbpython.com/categorical-encoding.html) (in my browser) is a helpful guide to precisely this kind of task. 
 2. If you know how to achieve a task that is similar to X, check the documentation of the associated tools to see whether there might be keyword arguments or methods that might help you achieve X. 
 3. If you've done the above, now is a good time to post on Campuswire. Describe what you've already tried, including any relevant resources you may have found. 
 4. Generally, if you've completed the above steps and haven't received an answer on Campuswire within 48 hours, I'll then make my beset attempt to address your question.
