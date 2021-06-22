@@ -11,7 +11,7 @@ permalink: syllabus/
 </figure>
 
 1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) are able to learn some cool stuff and get a good grade in this course. 
-2. **None of us signed up for this.** We are all doing the best we can during a time of catastrophe and intense uncertainty. My main aims in designing this course are to (a) offer you flexibility to adapt to changing circumstances and (b) encourage you to support and be supported by your classmates. Python programming is fun, and I hope that this course can be a positive part of your life during these difficult times. 
+2. **None of us signed up for this.** A year-and-a-half later, part of our educational experience is still online. This isn't the experience you wanted, and it's not the one I wanted either. Despite this, I intend for this course to be a bright spot in your quarter. Two of my key aims are to (a) offer you flexibility to adapt to changing circumstances and (b) encourage you to support and be supported by your classmates. Python programming is fun, and I hope that this course can be a positive part of your life during these difficult times. 
 3. **Your wellbeing comes first.** If at any time during this course, you require accommodations in order to ensure your own wellbeing or that of a loved one, please reach out to me. We will make it happen. 
 4. **We've got your back.** I'll be available to you through multiple channels. Additionally, you have an amazing support team -- your TA and peers will all be helping you in your learning journey.  
 
@@ -27,7 +27,7 @@ Python offers a wide array of tools for solving problems in modern computational
 1. **Core Programming**: You will create complex Python programs for solving a range of problems in computational science. 
 2. **Code Analysis**: You will collaboratively analyze and revise Python programs to improve clarity, robustness, and performance. 
 3. **Code Communication**: You will analyze and explain Python programs to nontechnical audiences in clear and engaging prose. 
-5. **Self-Teaching**: You will grow as an effective autodidact ([self-teacher](https://rtalbert.org/in-defense-of-teaching-yourself-the-material/)) of programming tools and techniques. 
+5. **Self-Teaching**: You will grow as an effective autodidact ([*self-teacher*](https://rtalbert.org/in-defense-of-teaching-yourself-the-material/)) of programming tools and techniques. 
 4. **Online Presence**: You will maintain a public portfolio of coding projects using industry-standard tools for code management. 
 
 ## Prerequisites
@@ -82,9 +82,9 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dl>
 
 <dt>Lecture&nbsp;</dt>
-<dd>MWF, 10:00am-10:50am PT</dd>
+<dd>MWF, 3pm-3:50pm PT, Mathematical Sciences 5138</dd>
 <dt>Discussion&nbsp;</dt>
-<dd>TR, 10:00am-10:50am PT</dd>
+<dd>TR, 3pm-3:50pm PT, Franz Hall 1260</dd>
 </dl>
 
 ## Course Team
@@ -93,16 +93,16 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>, <a href = "https://www.philchodrow.com/"> website </a>) </dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd>  Erin George (<em>they/them/theirs</em>, <a href = "https://www.math.ucla.edu/~egeo/"> website </a>)  &nbsp;</dd>
+<dd>  TBA </dd>
 </dl>
 
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> via Zoom, TBD </dd> 
-<dt> &nbsp;</dt> <dd>via Zoom, TBD </dd>
+<dt>Phil </dt> <dd>TBA </dd> 
+<dt> &nbsp;</dt> <dd>TBA </dd>
 <dt> &nbsp;</dt> <dd><i>and by appointment</i></dd>
-<dt> Erin </dt> <dd>via Zoom, TBD </dd>
+<dt> TA </dt> <dd>via Zoom, TBD </dd>
 </dl>
 
 ## Waitlist
@@ -132,72 +132,114 @@ All students on the waitlist at the end of Week 2 will be automatically enrolled
 
 <br>
 
-
 <div class="fancy-h1"> Assessment</div>
 
-## Core Rubric
+## Overall Grade
 
 <dl>
-  <dt>Homework &nbsp;</dt>
-  <dd> 40%</dd>
-  <dt>Participation &nbsp;</dt>
-  <dd> 20%</dd>
-  <dt>Project  &nbsp;</dt>
-  <dd> 40%</dd>
+  <dt>Blog Posts  &nbsp;</dt>
+  <dd> 60 points</dd>
+  
+  <dt>Project &nbsp;</dt>
+  <dd> 50 points</dd>
+  <dt>Essay &nbsp;</dt>
+  <dd> 5 points</dd>
+  <dt>Total &nbsp;</dt>
+  <dd><b>115 points</b></dd>
 </dl>
 
-### Grading Philosophy
+I compute letter grades on the straight scale, out of 100 points. So, if you finish the quarter with 95 points, that's an A! You can finish the quarter with more than 100 points, although you don't really gain anything from that other than pride. 
 
-I do not grade on the basis of ranks or other distributional information. Your final letter grade in this course is a reflection of your own effort, learning, and teamwork. If every student fully meets my expectations along these axes, then I will not hesitate to give every student an A. In particular, there is no competition for grades in my class.  
+I handle the A+ grade a little differently. To get an A+, you must: 
 
-> We are all on the same team. 
+- Finish the course with at least 100 points. 
+- Submit an exceptionally impressive course project. 
 
-Please do not hesitate to help each other out in ways that support your shared learning. When reasonably possible, **I will reward exceptional collaboration.** 
+Now let's talk about how to earn points. 
 
-### How to Earn an A
+## Specifications Grading
 
-I fully expect that most or even all students will earn As in this course. To get an A in the course, you will need to: 
+I'm going to say something now that will sound scary. **I promise it's ok though:** keep reading. Here goes: 
 
-- Manage multiple, sometimes overlapping deadlines. 
-- Make long-term plans with your group members. 
-- Put substantial effort into helping your peers improve their own projects. 
-- Persevere in solving problems whose solution may not be obvious. 
-- Seek help when you need it. 
+> There is no partial credit in PIC16B. 
 
-I believe that all students here can show these skills. If you do, you'll finish the quarter with an A in the course and some exceptionally impressive achievements in computational science with Python. 
+That is, assignments can receive either full credit or no credit -- there's nothing in between. 
 
-### Homework
+When does an assignment get credit? For each assignment, I will give you a relatively detailed list of *specifications* ("specs"). These specs are the requirements for the assignment. If your submission fully meets all the specs, then your assignment gets full credit. 
 
-Homework assignments are one of the primary ways on which you will receive feedback on your code and technical writing in this course. Each assignment will ask you to solve one or more problems **and write about them** on your blog (yes, you will have a blog, [demo here](https://pic16b.github.io/)). Your writing should be expository in format, so that someone who had not studied this problem before would be able to learn how to solve it from your writing. As usual, your write-up should include code with documentation, printed outputs, and expository text. Early in the course, we will go over how to turn Jupyter notebooks into posts on your blog. 
+If you don't get credit on an assignment, all is not lost! On most assignments, **you'll have a second submission opportunity**. If you improve your assignment to meet all the specs, then you'll get credit. 
 
-There are just three homework assignments in this course. Each one will stretch over two weeks. In the first week, you'll create a draft of your blog post, which you will turn in as a Jupyter Notebook. In the second week, you will give feedback on the drafts of your classmates, receive feedback on your own draft, revise your approach, and turn it into a published blog post. 
+## Assignment States
 
-The lowest homework grade will be dropped. 
+Most on-time assignments can be in one of two states: 
 
-### Participation
+<span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete** <br> The assignment fully meets specs and has received full credit.
 
-There are a few forms of required participation in PIC16A. The primary one is as a reviewer for your peers' drafts of their blog posts. In each homework assignment, you will be assigned a small group (rotating each time) of partners whose drafts you will review. **Your reviews will be graded** on thoughtfulness, helpfulness, and clarity, and counted under the Participation grade. 
+<span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**<br> The assignment has been submitted by the deadline, demonstrates significant effort, and is mostly up to spec. If submitted up to spec by the second deadline, the assignment will receive full credit.
 
-### Project
+Assignments that I find particularly impressive may receive a "Complete Plus" <span style="color: green;"><i class="fas fa-plus-circle"></i></span>. This is just there to let you know that I think you're doing great work, and that you should be proud of yourself! There's no difference between <span style="color: green;"><i class="fas fa-plus-circle"></i></span> and <span style="color: green;"><i class="fas fa-check-circle"></i></span> for grading purposes. 
 
-The single largest component of your grade is the [project](https://philchodrow.github.io/PIC16B/schedule/). Over the course of the quarter, you will: 
+#### Late Assignments
+
+An assignment is considered **late** if it was not submitted by the stated deadline; if it does not display significant effort to meet all specs; or if it is entirely missing required components. Late assignments can be resubmitted, for **half credit**. 
+
+<span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** <br> The assignment fully meets specs and has received half credit.
+
+<span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**<br>
+The assignment was not submitted by the deadline; fails to meet multiple major specs; or is entirely missing required components. If submitted up to spec by the second deadline, the assignment will become <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)**. 
+
+#### Assignments Without Resubmissions
+
+A very small number of assignments in this course will not allow resubmissions. The most important examples of these are project presentations, of which there will be several throughout the quarter. These will be graded with relatively relaxed specifications. Presentations that show collaboration, effort, and progress will usually receive full credit. 
+
+<div class="fancy-h1">Blog Posts</div>
+
+Blog posts play the role of homework assignments in PIC16B. Early in the course, you will create a blog like [this one](https://pic16b.github.io/). This blog will host the blog posts you write for your homework submissions. 
+
+## Writing
+
+Each blog post will have detailed specs. One of the specs common to all blog posts is **writing**. 
+
+> **Specification**: Your blog post should be structured and written as a **tutorial** so that a PIC16A student could learn how to solve the problem by reading your post. 
+
+Please note that this is not optional; posts cannot receive (any) credit unless they are written in tutorial format. 
+
+The usual method for preparing blog posts is to solve the problem in a Jupyter notebook, and then convert that notebook into a post. We'll go over this process early in the course. 
+
+There are six graded blog posts, each of which is worth 10 points. Note that you can skip one of them and still finish the course with 100 points. Think of this like a "drop" in a more traditional grading scheme. 
+
+All blog posts can be resubmitted once, within one week of receiving a first assessment. 
+
+## Examples
+
+Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Monday, they receives their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. They also receive feedback on what revisions are necessary. They successfully incorporates these revisions, and turns in a revised version within a week (i.e. by next Monday). Their revised blog post was up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive full credit (10 points) for the assignment.  
+
+Zenith had a really rough week, and wasn't really able to put enough effort into Blog Post 3. By the time she turns it in on Friday, her assignment is below spec in several ways and is not written in a tutorial format. Because she didn't not put sufficient effort into her assignment by the deadline, it is considered <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**. She can now decide whether she wants to bring it up to spec in order to get a <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** for half credit (5 points) or whether her time would be better spent focusing on the next assignment. 
+
+
+<div class="fancy-h1">Project</div>
+
+One of the most important components of PIC16B is the project. Over the course of the quarter, you will: 
 
 1. Identify an interesting and relevant problem that can be solved using computational methods. 
 2. Acquire data relevant to your problem. 
 3. Design and implement a computational solution to your problem.  
-4. Post periodic updates about your progress on your blog. 
-5. Give feedback on your peer's projects, and revise your own projects in response to peer feedback. 
+4. Give periodic progress updates to your classmates. 
+5. Revise your project in response to feedback. 
 6. Host your project in a public repository as part of your code portfolio. 
 
 **You are expected to work in a group of 2-3 students on the project**. If you would like to work in a larger group, or if you would like to work on your project solo, you must first request approval from me. 
 
-There are graded milestones throughout the quarter in which you will give updates on the status of your project. In many Discussion sections, you will be expected to give a short presentation in which you update the class on the status of your project. Project proposals will also be graded. Toward the end of the course, there will be an exchange of peer feedback on the projects, in similar format to the homeworks. 
+Your overall project grade contains a number of components. These include: 
 
-### Extra Credit
+1. A project pitch in Week 1. 
+2. A project proposal (with your group) in Week 3. 
+3. Project updates in Weeks 5 and 7. 
+4. An initial project submission in Week 9. 
+5. A project presentation in Week 10. 
+6. Project resubmission during Finals week. 
 
-There are several ways to earn extra credit in PIC16B. 
-
-#### Essay
+## Essay
 
 At any time prior to the end of instruction (Friday, June 4th, 2021), you may submit an essay of between 900 and 1200 words (approximately 3-4 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics are likely to receive only partial credit. 
 
@@ -234,68 +276,23 @@ You are free to use any sources to which you have access. If you are having trou
 - A [list of articles](https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/) on bias in algorithms. This list is curated by Safiya Umoja Noble, author of [Algorithms of Oppression: How Search Engines Reinforce Racism](https://nyupress.org/9781479837243/algorithms-of-oppression/) and faculty here at UCLA. 
 - Cathy O'Neil, author of the excellent book *Weapons of Math Destruction*, has a [blog](https://mathbabe.org/page/2/). Many of her posts are opinion pieces (and therefore unsuitable for citation), but she always provides links to primary material, which you can use. 
 
-#### Campuswire
+## How to Earn an A
 
-There is a Campuswire discussion forum associated with this course, where you can post both questions and answers about the course content.  If you post a particularly insightful question or answer, I will (at my discretion) award you 0.25% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 1% extra credit.
+I fully expect that most or even all students will earn As in this course. To get an A in the course, you will need to: 
 
-#### Course Feedback
+- Manage multiple, sometimes overlapping deadlines. 
+- Make long-term plans with your group members. 
+- Put substantial effort into helping your peers. 
+- Persevere in solving problems whose solution may not be obvious. 
+- Seek help when you need it. 
 
-There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit each.
-
-
-
-<div class="fancy-h1">Learning on Zoom</div>
-
-## Cameras
-
-  We're all humans. Many of us are feeling isolated or lonely in the time of COVID. As your instructor, it brightens my day to see your faces. So, when attending lecture, **please consider turning your camera on**, if your situation allows. There is no judgement and no penalty for attending lecture in bed, in you pajamas, wrapped in a blanket, etc. Conversely, there is no penalty for leaving your camera off, and I will not inquire. 
-
-  When working in small groups, it is especially important to engage with your group members as peers, mentors, and individuals. In this setting, I **strongly encourage** you to turn on your camera. When rotating through groups, I or the TA may ask you whether there is a reason why your camera is off. 
-
-## Microphones
-
-  In large meetings, it's good etiquette to mute your microphone when you are not actively talking. Feel free to unmute yourself when you have a question for me or for the TA. When working in small groups, leave your microphone on unless there's a lot of ambient noise. 
-
-<div class="fancy-h1"> Advice,  Letters, and Research</div>
-
-## Advice
-
-I am always happy to talk with you about your future plans, including courses, internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. If you'd like to set up a chat, please use the Calendly link provided under Site Info on CCLE. 
-
-## Letters of Recommendation
-
-You are also always welcome to ask me to write a recommendation letter supporting your applications for grad school, research internships, and jobs. I will usually agree to do so, although see the exceptions below. I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
-
-### To Request a Letter
-
-Send me an email! Your email should clearly indicate  when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it's written. If you will need me to submit my letter to multiple programs, please let me know roughly how many you expect to need. If possible, please include some sort of resume/CV --- it doesn't have to be official --- detailing your past experiences relevant to the application. **Please give me at least one month of advance notice** when possible. 
-
-### When I Won't Write a Letter
-
-As a matter of moral principle, I will not write letters of recommendation for programs or jobs involving any of the following:
-
-- Policing (including but not limited to predictive policing, development of algorithms that predict recidivism, etc.);
-- Military applications (such as internships at the Department of Defense or any of its international counterparts);
-- Weapons manufacturing, broadly construed;
-- Intelligence gathering (such as internships at the NSA, FBI, or any international counterpart).
-
-I am very happy to discuss this policy with any student who has questions. Conversations about when and how mathematics, data science, and programming should be used are lacking in our community. If you'd like to engage me in such a conversation, that would be great! However, this policy is non-negotiable. Therefore, if I refuse to write you a letter on these grounds, please know that it doesn't reflect on your ability to succeed in PIC16B, your career potential, your worth as a person, or whether I like you. 
-
-The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
-
-## Research
-
-I have some limited capacity to accept undergraduates to perform research with me. [My research](https://www.philchodrow.com/research/) focuses broadly on *network science*, the study of interconnected systems in nature and human society. Some things I'm interested in include applications of random graph theory, social network analysis, nonlinear dynamics on networks, and machine learning.  
-
-If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?qry=introduction%20to%20networks&funsel=1). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require background in network science, then taking Math 168 may not be necessary in order for us to work together.
-
-I'd like to emphasize that my ability to take students is indeed *limited*. If I decline to work with you, that is again not a reflection on your ability to succeed in PIC16B, your potential as a researcher, your worth as a person, or whether I like you. 
+I believe that all students here can show these skills. If you do, you'll finish the quarter with an A in the course and some exceptionally impressive achievements in computational science with Python. 
 
 <div class="fancy-h1"> Self-Teaching </div>
 
 ## Why Self-Teaching? 
 
-One of the primary learning goals of this course is to build your ability to learn independently. I want you to teach yourself new programming ideas and tools, now and in the future. The reason is not because I don't want to teach you myself -- I do!. Rather, the reason is that what I know is limited, and what I can share in a quarter is even more limited. 
+One of the primary learning goals of this course is to build your ability to learn independently. I want you to teach yourself new programming ideas and tools, now and in the future. The reason is not because I don't want to teach you myself -- I do! Rather, the reason is that what I know is limited, and what I can share in a quarter is even more limited. 
 
 > If you stick to what you can learn from me directly, you will hold yourself back. 
 
@@ -351,6 +348,49 @@ You may encounter non-emergency conditions that make it difficult to complete yo
 In this age of disease, isolation, and political unrest, that is very normal! 
 If you are struggling with your physical or mental health, please **approach me early** and we will have a conversation. 
 The earlier we can talk,  the more I will be able to do for you. 
+
+
+<div class="fancy-h1">Class Resources</div>
+
+## Slack
+
+This quarter, we'll be trying an experiment: official course communication will happen on Slack. There will be channels for announcements, as well as channels for questions and answers. This is my first time using Slack in a course, so please don't hesitate to give feedback along the way about how we can improve the experience. 
+
+<div class="fancy-h1"> Advice,  Letters, and Research</div>
+
+## Advice
+
+I am always happy to talk with you about your future plans, including courses, internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. If you'd like to set up a chat, please use the Calendly link provided under Site Info on CCLE. 
+
+## Letters of Recommendation
+
+You are also always welcome to ask me to write a recommendation letter supporting your applications for grad school, research internships, and jobs. I will usually agree to do so, although see the exceptions below. I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
+
+### To Request a Letter
+
+Send me an email! Your email should clearly indicate  when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it's written. If you will need me to submit my letter to multiple programs, please let me know roughly how many you expect to need. If possible, please include some sort of resume/CV --- it doesn't have to be official --- detailing your past experiences relevant to the application. **Please give me at least one month of advance notice** when possible. 
+
+### When I Won't Write a Letter
+
+As a matter of moral principle, I will not write letters of recommendation for programs or jobs involving any of the following:
+
+- Policing (including but not limited to predictive policing, development of algorithms that predict recidivism, etc.);
+- Military applications (such as internships at the Department of Defense or any of its international counterparts);
+- Weapons manufacturing, broadly construed;
+- Intelligence gathering (such as internships at the NSA, FBI, or any international counterpart).
+
+I am very happy to discuss this policy with any student who has questions. Conversations about when and how mathematics, data science, and programming should be used are lacking in our community. If you'd like to engage me in such a conversation, that would be great! However, this policy is non-negotiable. Therefore, if I refuse to write you a letter on these grounds, please know that it doesn't reflect on your ability to succeed in PIC16B, your career potential, your worth as a person, or whether I like you. 
+
+The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
+
+## Research
+
+I have some limited capacity to accept undergraduates to perform research with me. [My research](https://www.philchodrow.com/research/) focuses broadly on *network science*, the study of interconnected systems in nature and human society. Some things I'm interested in include applications of random graph theory, social network analysis, nonlinear dynamics on networks, and machine learning.  
+
+If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?qry=introduction%20to%20networks&funsel=1). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require background in network science, then taking Math 168 may not be necessary in order for us to work together.
+
+I'd like to emphasize that my ability to take students is indeed *limited*. If I decline to work with you, that is again not a reflection on your ability to succeed in PIC16B, your potential as a researcher, your worth as a person, or whether I like you. 
+
 
 <div class="fancy-h1"> Listening </div>
 
