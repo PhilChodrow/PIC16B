@@ -11,7 +11,7 @@ permalink: syllabus/
 </figure>
 
 1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) are able to learn some cool stuff and get a good grade in this course. 
-2. **None of us signed up for this.** A year-and-a-half later, part of our educational experience is still online. This isn't the experience you wanted, and it's not the one I wanted either. Despite this, I intend for this course to be a bright spot in your quarter. Two of my key aims are to (a) offer you flexibility to adapt to changing circumstances and (b) encourage you to support and be supported by your classmates. Python programming is fun, and I hope that this course can be a positive part of your life during these difficult times. 
+2. **It's still a challenging time.** I'm thrilled to be seeing you in person, and I hope that you're glad to be here. Still, you might feel challenged by the transition back to in-person instruction -- and that's ok! Maybe you need some time to re-acclimate to in-person socializing. Maybe you, your friends, or your loved ones are still affected by the pandemic in some way. So, while I hope we can celebrate our time together, I also hope we can all recognize that it may not be a totally smooth ride. If you're struggling with the transition back to in-person instruction, remember that you have support from your instructors, your classmates, and various student resources to help you navigate. 
 3. **Your wellbeing comes first.** If at any time during this course, you require accommodations in order to ensure your own wellbeing or that of a loved one, please reach out to me. We will make it happen. 
 4. **We've got your back.** I'll be available to you through multiple channels. Additionally, you have an amazing support team -- your TA and peers will all be helping you in your learning journey.  
 
@@ -159,15 +159,15 @@ Now let's talk about how to earn points.
 
 ## Specifications Grading
 
-I'm going to say something now that will sound scary. **I promise it's ok though:** keep reading. Here goes: 
+I'm going to say something now that will sound scary. **I promise it's ok though,** keep reading. Here goes: 
 
 > There is no partial credit in PIC16B. 
 
-That is, assignments can receive either full credit or no credit -- there's nothing in between. 
+On-time assignments can receive either full credit or no credit -- there's nothing in between. Late assignments can receive either half or no credit. 
 
-When does an assignment get credit? For each assignment, I will give you a relatively detailed list of *specifications* ("specs"). These specs are the requirements for the assignment. If your submission fully meets all the specs, then your assignment gets full credit. 
+When does an assignment get credit? For each assignment, I will give you a relatively detailed list of *specifications* ("specs"). These specs are the requirements for the assignment. If your submission fully meets all the specs by the required deadline, then your assignment gets full credit. This mode of grading is often called *standards-based*, *mastery*, or *specifications* grading. 
 
-If you don't get credit on an assignment, all is not lost! On most assignments, **you'll have a second submission opportunity**. If you improve your assignment to meet all the specs, then you'll get credit. 
+If you don't get credit on an assignment, all is not lost! On most assignments, **you'll have a second submission opportunity**. If you improve your assignment to meet all the specs, then you'll again get full credit. 
 
 ## Assignment States
 
@@ -181,7 +181,7 @@ Assignments that I find particularly impressive may receive a "Complete Plus" <s
 
 #### Late Assignments
 
-An assignment is considered **late** if it was not submitted by the stated deadline; if it does not display significant effort to meet all specs; or if it is entirely missing required components. Late assignments can be resubmitted, for **half credit**. 
+An assignment is considered **late** if it was submitted after but **within one week** of the stated deadline; if it does not display significant effort to meet all specs; or if it is entirely missing required components. Late assignments can be resubmitted, for **half credit**. 
 
 <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** <br> The assignment fully meets specs and has received half credit.
 
@@ -192,7 +192,20 @@ The assignment was not submitted by the deadline; fails to meet multiple major s
 
 A very small number of assignments in this course will not allow resubmissions. The most important examples of these are project presentations, of which there will be several throughout the quarter. These will be graded with relatively relaxed specifications. Presentations that show collaboration, effort, and progress will usually receive full credit. 
 
-<div class="fancy-h1">Blog Posts</div>
+## Why Specifications Grading?
+
+There are a number of reasons why I have chosen to adopt specifications grading in PIC16B. Here are a few: 
+
+1. **Career preparation**. In your professional career, there won't be any such thing as a 94% grade. Projects either meet the required specifications or they don't. When they don't, there's often a chance to improve them so that they do. The lack of partial credit, combined with multiple assignment opportunities, is meant to prepare you for this kind of experience. 
+2. **Control**. I've tried to give you more control over your grade in this course. You shouldn't really have to guess about what grade you're going to get on an assignment. Check the specs -- did you meet them fully? If so, you should expect full credit. If not, you should expect a clear explanation of what needs to be improved, and an opportunity to act on that to receive full credit.  
+3. **Communication**. I want you to know *exactly* what I'm looking for in an assignment. Specs grading gives me a responsibility to articulate my expectations as clearly and operationally as possible. 
+
+That said, my implementation of specs grading in Fall '21 is *experimental*. There will likely be mistakes, and we will work through them together. I will do my best to make sure that you never suffer for mistakes that I make. 
+
+<div class="fancy-h1">Assignments</div>
+
+
+# Blog Posts
 
 Blog posts play the role of homework assignments in PIC16B. Early in the course, you will create a blog like [this one](https://pic16b.github.io/). This blog will host the blog posts you write for your homework submissions. 
 
@@ -200,24 +213,24 @@ Blog posts play the role of homework assignments in PIC16B. Early in the course,
 
 Each blog post will have detailed specs. One of the specs common to all blog posts is **writing**. 
 
-> **Specification**: Your blog post should be structured and written as a **tutorial** so that a PIC16A student could learn how to solve the problem by reading your post. 
+> **Specification**: Your blog post should be structured and written as a *tutorial* so that a PIC16A student could learn how to solve the problem by reading your post. 
 
-Please note that this is not optional; posts cannot receive (any) credit unless they are written in tutorial format. 
+Please note that the writing spec is not optional; posts cannot receive (any) credit unless they are written in tutorial format. 
 
 The usual method for preparing blog posts is to solve the problem in a Jupyter notebook, and then convert that notebook into a post. We'll go over this process early in the course. 
 
 There are six graded blog posts, each of which is worth 10 points. Note that you can skip one of them and still finish the course with 100 points. Think of this like a "drop" in a more traditional grading scheme. 
 
 All blog posts can be resubmitted once, within one week of receiving a first assessment. 
+We'll do our best to get you your first assessments quickly so as to minimize the amount of time you're waiting to find out whether you need to resubmit or not. 
 
 ## Examples
 
-Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Monday, they receives their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. They also receive feedback on what revisions are necessary. They successfully incorporates these revisions, and turns in a revised version within a week (i.e. by next Monday). Their revised blog post was up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive full credit (10 points) for the assignment.  
+Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Tuesday, they receives their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. This assessment reflects that they clearly put effort into the entire assignment and met the vast majority of specs. They also receive feedback on what revisions are necessary. They successfully incorporates these revisions, and turns in a revised version within a week (i.e. by next Tuesday). Their revised blog post is fully up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive full credit (10 points) for the assignment.  
 
-Zenith had a really rough week, and wasn't really able to put enough effort into Blog Post 3. By the time she turns it in on Friday, her assignment is below spec in several ways and is not written in a tutorial format. Because she didn't not put sufficient effort into her assignment by the deadline, it is considered <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**. She can now decide whether she wants to bring it up to spec in order to get a <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** for half credit (5 points) or whether her time would be better spent focusing on the next assignment. 
+Zenith had a really rough week, and wasn't really able to put enough effort into Blog Post 3. By the time she turns it in on Friday, her assignment is below spec in several ways and is not written in a tutorial format. Because she didn't not put sufficient effort into her assignment by the deadline, the assessment she receives on Tuesday is <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**. She can now decide whether she wants to bring it up to spec in order to get a <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** for half credit (5 points) or whether her time would be better spent focusing on the next assignment. 
 
-
-<div class="fancy-h1">Project</div>
+# Project
 
 One of the most important components of PIC16B is the project. Over the course of the quarter, you will: 
 
@@ -239,44 +252,14 @@ Your overall project grade contains a number of components. These include:
 5. A project presentation in Week 10. 
 6. Project resubmission during Finals week. 
 
-## Essay
+Each of these individual components will have their own specs. You can find complete lists of specs for each component [here]({{site.assignments}}). 
 
-At any time prior to the end of instruction (Friday, June 4th, 2021), you may submit an essay of between 900 and 1200 words (approximately 3-4 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics are likely to receive only partial credit. 
+# Essay 
 
-Somewhat more generally, a successful essay will discuss:
-
-- **Concrete benefits or harms**. Examples of concrete benefits or harms include changes to one's likelihood of being arrested, granted health services, approved for a loan, or granted reasonably-priced health insurance. 
-- **Disparate impacts**. You should show that the system in question harms or benefits certain groups more than others. 
-
-**A bad example**: arguing that social media is driving political polarization (this is a good topic, but not for this prompt). 
-
-**A better example**: arguing that polarization on social media is leading to an increase in hate crimes toward specific marginalized groups. 
-
-You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
-
-This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. Because 3% is quite a lot of extra credit, I will tend to hold these essays to very high standards. Exceptional effort is required if you want all three points.
+For up to five (5) points, you may submit an essay on a topic broadly related to themes of algorithms, equity, and justice. Here's the [essay prompt and specs]({{site.essay}}). 
 
 
-Your essay should satisfy the following criteria. 
-
-- **Sources**: The essay should cite and elaborate on at least five news articles, blog posts, or other sources. Opinion articles do not count. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while at least two must be written. 
-- **Argument**: The essay should have a *thesis statement*, which is supported by the discussion of the sources. Several examples of successful thesis statements: 
-    - *Taken together, these articles suggest that algorithmic surveillance of marginalized groups is only increasing with time.*
-    - *Although studies have revealed significant biases in Google Search, more recent work suggests that these biases may be less important in practice than once believed.*
-    - *While many proposals exist for how algorithms and computation can be used to combat climate change, these proposals often overlook the role of human interpretation in implementing computer-generating guidance.*
-- **Grammar and Writing**: Your essay should be written in engaging and grammatical English, with complete sentences and careful punctuation. 
-
-The [Undergraduate Writing Center](https://wp.ucla.edu/wc/) is an excellent resource for helping you craft high-quality essays. 
-
-**Suggestions for Sources**
-
-You are free to use any sources to which you have access. If you are having trouble getting started, the following may be useful starting places. 
-
-- The [Algorithmic Justice League](https://www.ajl.org/about) maintains a [library](https://www.ajl.org/library/home) of articles and announcements that may help you find suitable material. Especially relevant for topics at the intersection of algorithms and racial justice. 
-- A [list of articles](https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/) on bias in algorithms. This list is curated by Safiya Umoja Noble, author of [Algorithms of Oppression: How Search Engines Reinforce Racism](https://nyupress.org/9781479837243/algorithms-of-oppression/) and faculty here at UCLA. 
-- Cathy O'Neil, author of the excellent book *Weapons of Math Destruction*, has a [blog](https://mathbabe.org/page/2/). Many of her posts are opinion pieces (and therefore unsuitable for citation), but she always provides links to primary material, which you can use. 
-
-## How to Earn an A
+# Advice: How to Earn an A
 
 I fully expect that most or even all students will earn As in this course. To get an A in the course, you will need to: 
 
@@ -329,17 +312,13 @@ Corollary: you are more likely to get help from others and from me if you *start
 
 You can always ask me questions in OH. Be ready for me to ask you which of the above steps you've completed. If you haven't done many of them, then we may walk through some of the steps together. 
 
-## Extensions and Accommodations
+<div class="fancy-h1">Extensions and Accommodations</div>
 
 PIC16B has a fair number of long-term deadlines, including your project and multi-week homeworks. I expect you to manage your schedule accordingly, and to plan ahead. 
 
-I will drop your lowest homework grade (i.e. you can skip a HW), and I will also drop some number of participation and project milestone grades TBD. 
+The primary form of accommodation in this course is the fact that there are more than 100 points worth of assignments. If, for example, you skip a homework assignment, you can still finish the course with 100 points and a solid A. Additionally, up-to-spec homework can be submitted up to one week late to receive a half-credit <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)**. 
 
-> If there's a week or two when you just can't with this class, don't worry about it. 
-
-### Extensions
-
-Generally speaking, I almost never grant extensions after a deadline has past, and very rarely when the deadline is close. The primary exceptions are acute emergencies, especially health emergencies. I'll usually just invite you to use a drop instead.  
+Because of this, **I do not expect to grant extensions to individual students in this class.**
 
 ### Long-Term Challenges
 
@@ -354,6 +333,8 @@ The earlier we can talk,  the more I will be able to do for you.
 ## Slack
 
 This quarter, we'll be trying an experiment: official course communication will happen on Slack. There will be channels for announcements, as well as channels for questions and answers. This is my first time using Slack in a course, so please don't hesitate to give feedback along the way about how we can improve the experience. 
+
+We'll still be using CCLE for submitting assignments and managing grades. 
 
 <div class="fancy-h1"> Advice,  Letters, and Research</div>
 
