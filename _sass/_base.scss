@@ -6,27 +6,15 @@ blockquote,  hr,
 figure {
     margin: 0;
     // padding: 0;
-    padding: 15px 0.0px 0.0px 10px;
+    padding: 10px 0.0px 0.0px 10px;
 }
 
 ol, ul { 
-    padding: 0px 0px 0px 10px;
-    margin: 0px 0px 0px 15px;
+    padding: 0px 0px 0px 5px;
+    margin: 5px 0px 0px 5px;
 }
 
-h3, h4, h5, h6 {
-    padding: 15px 0px 0px 10px;
-}
-
-h1, h2, h3, h4, h5, h6 { 
-    // margin-right: 70px;
-    // margin-left: 65px;
-    padding: 7px 0px 0px 7px;
-    // margin: 5px 0px 0px 20px;
-}
-
-
-p, dl, dd,  ul, ol { 
+p, dl, dd, { 
     padding: 0px 0px 0px 0px;
     margin: 5px 0px 0px 20px;
     // margin-right: 75px;
@@ -58,9 +46,7 @@ h1, h2, h3 {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-blockquote, pre,
- ol, dl, figure,
+pre, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
