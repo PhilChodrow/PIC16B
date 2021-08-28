@@ -92,7 +92,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dl>
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>, <a href = "https://www.philchodrow.com/"> website </a>) </dd>
-<dt> Teaching Assistant &nbsp; </dt>
+<dt> John Zhang &nbsp; </dt>
 <dd>  TBA </dd>
 </dl>
 
@@ -102,7 +102,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dt>Phil </dt> <dd>TBA </dd> 
 <dt> &nbsp;</dt> <dd>TBA </dd>
 <dt> &nbsp;</dt> <dd><i>and by appointment</i></dd>
-<dt> TA </dt> <dd>via Zoom, TBD </dd>
+<dt> John </dt> <dd>via Zoom, TBD </dd>
 </dl>
 
 ## Waitlist
@@ -257,7 +257,6 @@ Each of these individual components will have their own specs. You can find comp
 # Essay 
 
 For up to five (5) points, you may submit an essay on a topic broadly related to themes of algorithms, equity, and justice. Here's the [essay prompt and specs]({{site.essay}}). 
-
 
 # Advice: How to Earn an A
 
@@ -445,5 +444,5 @@ The [Community Programs Office](http://www.cpo.ucla.edu/cpo/) offers several stu
 <div class="fancy-h1"> Acknowledgements </div>
 
 - Course Environment Statements lightly modified from [Chad Topaz](https://drive.google.com/file/d/1uS90kmh1LzXSwxvcgST7ws2GQmYD3j4O/view)
-- Opening statement inspired by [Robert Talbert](https://github.com/RobertTalbert/calculus/blob/master/course-documentation/MTH201-Fall2020-Syllabus.md). 
+- Opening statement inspired by [Robert Talbert](https://github.com/RobertTalbert/calculus/blob/master/course-documentation/MTH201-Fall2020-Syllabus.md).  
 
