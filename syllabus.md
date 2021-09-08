@@ -92,8 +92,8 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dl>
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>, <a href = "https://www.philchodrow.com/"> website </a>) </dd>
-<dt> John Zhang &nbsp; </dt>
-<dd>  TBA </dd>
+<dt> TA &nbsp; </dt>
+<dd>  John Zhang </dd>
 </dl>
 
 ## Office Hours (via Zoom)
@@ -200,7 +200,11 @@ There are a number of reasons why I have chosen to adopt specifications grading 
 2. **Control**. I've tried to give you more control over your grade in this course. You shouldn't really have to guess about what grade you're going to get on an assignment. Check the specs -- did you meet them fully? If so, you should expect full credit. If not, you should expect a clear explanation of what needs to be improved, and an opportunity to act on that to receive full credit.  
 3. **Communication**. I want you to know *exactly* what I'm looking for in an assignment. Specs grading gives me a responsibility to articulate my expectations as clearly and operationally as possible. 
 
-That said, my implementation of specs grading in Fall '21 is *experimental*. There will likely be mistakes, and we will work through them together. I will do my best to make sure that you never suffer for mistakes that I make. 
+## Possible Modifications 
+
+My implementation of specs grading in Fall '21 is *experimental*. There will likely be mistakes, and we will work through them together. I will do my best to make sure that you never suffer for mistakes that I make. In particular: 
+
+> I will never modify the grading scheme in a way that reduces the total number of points or makes it significantly harder to earn points. 
 
 <div class="fancy-h1">Assignments</div>
 
@@ -226,7 +230,7 @@ We'll do our best to get you your first assessments quickly so as to minimize th
 
 ## Examples
 
-Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Tuesday, they receives their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. This assessment reflects that they clearly put effort into the entire assignment and met the vast majority of specs. They also receive feedback on what revisions are necessary. They successfully incorporates these revisions, and turns in a revised version within a week (i.e. by next Tuesday). Their revised blog post is fully up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive full credit (10 points) for the assignment.  
+Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Tuesday, they receive their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. This assessment reflects that they clearly put effort into the entire assignment and met the majority of specs. They also receive feedback on what revisions are necessary. They successfully incorporate these revisions, and turn in a revised version within a week of receiving their assessment (i.e. by the next Tuesday). Their revised blog post is fully up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive full credit (10 points) for the assignment.  
 
 Zenith had a really rough week, and wasn't really able to put enough effort into Blog Post 3. By the time she turns it in on Friday, her assignment is below spec in several ways and is not written in a tutorial format. Because she didn't not put sufficient effort into her assignment by the deadline, the assessment she receives on Tuesday is <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**. She can now decide whether she wants to bring it up to spec in order to get a <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** for half credit (5 points) or whether her time would be better spent focusing on the next assignment. 
 
@@ -252,7 +256,7 @@ Your overall project grade contains a number of components. These include:
 5. A project presentation in Week 10. 
 6. Project resubmission during Finals week. 
 
-Each of these individual components will have their own specs. You can find complete lists of specs for each component [here]({{site.assignments}}). 
+Each of these individual components will have their own specs. The specs for each component will be [here]({{site.assignments}}), not all of them are posted quite yet. 
 
 # Essay 
 
