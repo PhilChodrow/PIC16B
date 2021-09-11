@@ -134,28 +134,25 @@ All students on the waitlist at the end of Week 2 will be automatically enrolled
 
 <div class="fancy-h1"> Assessment</div>
 
+**Grading is broken**. Grades are used in higher education to both (a) give you feedback on how you can grow and (b) assess your “merit” or “mastery” of course content. This latter purpose is especially broken. There’s no pedagogical justification for these so-called “formative assessments.” The results are not predictive of future success or “merit,” and academics are, on average, bad at designing assessments that equitably measure meaningful competency. Professor Amy J. Ko at the University of Washington has an [excellent reflection](https://medium.com/bits-and-behavior/grading-is-ineffective-harmful-and-unjust-lets-stop-doing-it-52d2ef8ffc47) on the deep flaws of grading, which you might wish to read.
+
+If I could drop grades and simply give you feedback on how you can grow, I would in a heartbeat. Unfortunately, the policy of the Department of Mathematics and UCLA is that I must give grades. The system below does not overcome the fundamental flaws of grading, but I hope that it can at least be less opaque and inequitable than many other systems.
+
 ## Overall Grade
 
-<dl>
-  <dt>Blog Posts  &nbsp;</dt>
-  <dd> 60 points</dd>
-  
-  <dt>Project &nbsp;</dt>
-  <dd> 50 points</dd>
-  <dt>Essay &nbsp;</dt>
-  <dd> 5 points</dd>
-  <dt>Total &nbsp;</dt>
-  <dd><b>115 points</b></dd>
-</dl>
+There will be 7 blog posts (homeworks) and a series of project assignments throughout the quarter. Here's how to earn letter grades: 
 
-I compute letter grades on the straight scale, out of 100 points. So, if you finish the quarter with 95 points, that's an A! You can finish the quarter with more than 100 points, although you don't really gain anything from that other than pride. 
+**A** : Earn credit for **6** out of 7 blog posts and all project assignments<br>
+**A-** : Earn credit for **5** out of 7 blog posts and all project assignments <br>
+**B+** : Earn credit for **4** out of 7 blog posts and all project assignments
 
-I handle the A+ grade a little differently. To get an A+, you must: 
+I do not anticipate any grades lower than a B+. Keep reading for what it means to "earn credit." 
 
-- Finish the course with at least 100 points. 
-- Submit an exceptionally impressive course project. 
+To earn an **A+**, you must meet the requirements for an **A** *and* submit a course project that displays an exceptional level of curiosity, ambition, and learning. 
 
-Now let's talk about how to earn points. 
+Note: there is an optional essay which can be substituted for one blog post. 
+
+Now let's talk about how to earn credit. 
 
 ## Specifications Grading
 
@@ -188,15 +185,17 @@ An assignment is considered **late** if it was submitted after but **within one 
 <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**<br>
 The assignment was not submitted by the deadline; fails to meet multiple major specs; or is entirely missing required components. If submitted up to spec by the second deadline, the assignment will become <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)**. 
 
+Two assignments that are <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** count for one assignment in the context of your letter grade. So, for example, one way to earn an **A** is to complete 5 blog posts on time and 2 late. 
+
 #### Assignments Without Resubmissions
 
-A very small number of assignments in this course will not allow resubmissions. The most important examples of these are project presentations, of which there will be several throughout the quarter. These will be graded with relatively relaxed specifications. Presentations that show collaboration, effort, and progress will usually receive full credit. 
+A very small number of assignments in this course will not allow resubmissions. The most important examples of these are project presentations, of which there will be several throughout the quarter. These will be graded with relatively relaxed specifications. Presentations that show collaboration, effort, and progress will receive full credit. 
 
 ## Why Specifications Grading?
 
 There are a number of reasons why I have chosen to adopt specifications grading in PIC16B. Here are a few: 
 
-1. **Career preparation**. In your professional career, there won't be any such thing as a 94% grade. Projects either meet the required specifications or they don't. When they don't, there's often a chance to improve them so that they do. The lack of partial credit, combined with multiple assignment opportunities, is meant to prepare you for this kind of experience. 
+1. **Career preparation**. In your professional career, there won't be any such thing as a 92% grade. Projects either meet the required specifications or they don't. When they don't, there's often a chance to improve them so that they do. The lack of partial credit, combined with multiple assignment opportunities, is meant to prepare you for this kind of experience. 
 2. **Control**. I've tried to give you more control over your grade in this course. You shouldn't really have to guess about what grade you're going to get on an assignment. Check the specs -- did you meet them fully? If so, you should expect full credit. If not, you should expect a clear explanation of what needs to be improved, and an opportunity to act on that to receive full credit.  
 3. **Communication**. I want you to know *exactly* what I'm looking for in an assignment. Specs grading gives me a responsibility to articulate my expectations as clearly and operationally as possible. 
 
@@ -204,7 +203,7 @@ There are a number of reasons why I have chosen to adopt specifications grading 
 
 My implementation of specs grading in Fall '21 is *experimental*. There will likely be mistakes, and we will work through them together. I will do my best to make sure that you never suffer for mistakes that I make. In particular: 
 
-> I will never modify the grading scheme in a way that reduces the total number of points or makes it significantly harder to earn points. 
+> I will never modify the grading scheme in a way that makes it significantly harder to earn a given letter grade. 
 
 <div class="fancy-h1">Assignments</div>
 
@@ -223,16 +222,16 @@ Please note that the writing spec is not optional; posts cannot receive (any) cr
 
 The usual method for preparing blog posts is to solve the problem in a Jupyter notebook, and then convert that notebook into a post. We'll go over this process early in the course. 
 
-There are six graded blog posts, each of which is worth 10 points. Note that you can skip one of them and still finish the course with 100 points. Think of this like a "drop" in a more traditional grading scheme. 
+Note that you can skip a blog post and still earn an A, or even an A+. Think of this like a "drop" in a more traditional grading scheme. 
 
 All blog posts can be resubmitted once, within one week of receiving a first assessment. 
 We'll do our best to get you your first assessments quickly so as to minimize the amount of time you're waiting to find out whether you need to resubmit or not. 
 
 ## Examples
 
-Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Tuesday, they receive their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. This assessment reflects that they clearly put effort into the entire assignment and met the majority of specs. They also receive feedback on what revisions are necessary. They successfully incorporate these revisions, and turn in a revised version within a week of receiving their assessment (i.e. by the next Tuesday). Their revised blog post is fully up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive full credit (10 points) for the assignment.  
+Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Tuesday, they receive their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. This assessment reflects that they clearly put effort into the entire assignment and met the majority of specs. They also receive feedback on what revisions are necessary. They successfully incorporate these revisions, and turn in a revised version within a week of receiving their assessment (i.e. by the next Tuesday). Their revised blog post is fully up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive earn credit for the assignment.  
 
-Zenith had a really rough week, and wasn't really able to put enough effort into Blog Post 3. By the time she turns it in on Friday, her assignment is below spec in several ways and is not written in a tutorial format. Because she didn't not put sufficient effort into her assignment by the deadline, the assessment she receives on Tuesday is <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**. She can now decide whether she wants to bring it up to spec in order to get a <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** for half credit (5 points) or whether her time would be better spent focusing on the next assignment. 
+Zenith had a really rough week, and wasn't really able to put enough effort into Blog Post 3. By the time she turns it in on Friday, her assignment is below spec in several ways and is not written in a tutorial format. Because she didn't not put sufficient effort into her assignment by the deadline, the assessment she receives on Tuesday is <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**. She can now decide whether she wants to bring it up to spec in order to get a <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** for half credit or whether her time would be better spent focusing on the next assignment. 
 
 # Project
 
@@ -249,18 +248,25 @@ One of the most important components of PIC16B is the project. Over the course o
 
 Your overall project grade contains a number of components. These include: 
 
-1. A project pitch in Week 1. 
-2. A project proposal (with your group) in Week 3. 
-3. Project updates in Weeks 5 and 7. 
-4. An initial project submission in Week 9. 
+1. A project pitch. 
+2. A project proposal (with your group). 
+3. Project updates in Weeks 6 and 8. 
+4. An initial project submission in early week 10 (optional). 
 5. A project presentation in Week 10. 
-6. Project resubmission during Finals week. 
+6. Final project submission during Finals week. 
 
 Each of these individual components will have their own specs. The specs for each component will be [here]({{site.assignments}}), not all of them are posted quite yet. 
 
+
 # Essay 
 
-For up to five (5) points, you may submit an essay on a topic broadly related to themes of algorithms, equity, and justice. Here's the [essay prompt and specs]({{site.essay}}). 
+At any time during the quarter, ou may submit an essay on a topic broadly related to themes of algorithms, equity, and justice. Here's the [essay prompt and specs]({{site.essay}}). 
+
+This essay is worth **one blog post.** So, one way to earn an A in the course is to earn credit for 5 on-time blog posts and the essay.
+
+If your essay fully meets specs, you'll immediately earn that credit. If not, I'll send you some feedback on what you can do to meet specs, and you'll be able to resubmit. 
+
+**Note**: my expectations for this essay, and the corresponding specifications, are considerably higher than they were in PIC16A. 
 
 # Advice: How to Earn an A
 

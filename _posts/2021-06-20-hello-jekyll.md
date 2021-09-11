@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Hello, Jekyll"
-date:   2020-08-16 15:36:27
+date:   2020-08-16
+due: 2021-09-28
 categories: preparation assignment
 permalink: posts/hello-jekyll
 author: Phil Chodrow

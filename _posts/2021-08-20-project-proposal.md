@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Project Proposal"
-date:   2021-05-16 15:36:27
+date:   2020-05-16 15:36:27
+due:   2021-10-14
 categories: project assignment
 permalink: posts/project-proposal
 author: Phil Chodrow
