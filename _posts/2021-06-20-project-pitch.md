@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project Pitches"
-date:   2021-05-16 15:36:27
+date:   2021-05-17 15:36:27
 due:   2021-09-28
 categories: project assignment
 permalink: posts/project-pitches
