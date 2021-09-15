@@ -109,6 +109,20 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 
 All students on the waitlist at the end of Week 2 will be automatically enrolled in the course. 
 
+<div class="fancy-h1"> How You Will Learn in PIC16B</div>
+
+ In PIC16B, we'll relatively traditional lecture periods, in which I'll present on a topic. These will take place during the scheduled lecture periods, although I'll record the lectures and post them to CCLE afterwards. You'll have a quarter-long project and a series of blog posts (homeworks) in which to practice your skills. 
+
+I believe that: 
+
+> Your learning takes place primarily **outside of lecture**. 
+
+> Your learning takes place when you are **actively solving problems and writing code.**
+
+I plan my lectures in PIC16B to give you a high-level view on a set of topics. You're not going to become a strong programmer just by attending lectures. So, make sure that you **leave yourself plenty of time** to research topics, work on your project, and grapple with the homework problems. 
+
+
+
 <div class="fancy-h1">Course Environment </div>
 
 <div class="blocks">
