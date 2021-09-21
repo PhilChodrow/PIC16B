@@ -11,7 +11,7 @@ permalink: syllabus/
 </figure>
 
 1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) are able to learn some cool stuff and get a good grade in this course. 
-2. **It's still a challenging time.** I'm thrilled to be seeing you in person, and I hope that you're glad to be here. Still, you might feel challenged by the transition back to in-person instruction -- and that's ok! Maybe you need some time to re-acclimate to in-person socializing. Maybe you, your friends, or your loved ones are still affected by the pandemic in some way. So, while I hope we can celebrate our time together, I also hope we can all recognize that it may not be a totally smooth ride. If you're struggling with the transition back to in-person instruction, remember that you have support from your instructors, your classmates, and various student resources to help you navigate. 
+2. **It's still a challenging time.** I'm thrilled to be seeing you in person, and I hope that you're glad to be here. Still, you might feel challenged by the transition back to in-person instruction -- I know I do. And you know what? That's ok! Maybe you need some time to re-acclimate to in-person socializing. Maybe you, your friends, or your loved ones are still affected by the pandemic in some way. So, while I hope we can celebrate our time together, I also hope we can all recognize that it may not be a totally smooth ride. If you're struggling with the transition back to in-person instruction, remember that you have support from your instructors, your classmates, and various student resources to help you navigate. 
 3. **Your wellbeing comes first.** If at any time during this course, you require accommodations in order to ensure your own wellbeing or that of a loved one, please reach out to me. We will make it happen. 
 4. **We've got your back.** I'll be available to you through multiple channels. Additionally, you have an amazing support team -- your TA and peers will all be helping you in your learning journey.  
 
@@ -99,8 +99,8 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd>TBA </dd> 
-<dt> &nbsp;</dt> <dd>TBA </dd>
+<dt>Phil </dt> <dd>Mondays at 11am PT, in person or via Zoom </dd> 
+<dt> &nbsp;</dt> <dd>Wednesdays at 7:30pm PT, via Zoom</dd>
 <dt> &nbsp;</dt> <dd><i>and by appointment</i></dd>
 <dt> John </dt> <dd>via Zoom, TBD </dd>
 </dl>
