@@ -82,9 +82,11 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dl>
 
 <dt>Lecture&nbsp;</dt>
-<dd>MWF, 3pm-3:50pm PT, Mathematical Sciences 5138</dd>
-<dt>Discussion&nbsp;</dt>
-<dd>TR, 3pm-3:50pm PT, Franz Hall 1260</dd>
+<dd>MWF, 3pm-3:50pm PT, Franz 1178</dd>
+<dt>Discussion A&nbsp;</dt>
+<dd>TR, 3pm-3:50pm PT, Franz 1260</dd>
+<dt>Discussion B&nbsp;</dt>
+<dd>TR, 4pm-4:50pm PT, Boelter 5273</dd>
 </dl>
 
 ## Course Team
