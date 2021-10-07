@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Blog Post 2"
+title:  "Blog Post 3"
 date:   2022-08-16 15:36:27
-assignment
+categories: assignment
 permalink: posts/blog-post-2
 author: Phil Chodrow
 ---
