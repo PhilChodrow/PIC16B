@@ -3,6 +3,7 @@ _site
 .jekyll-cache
 groups.csv
 *-sol*
+*_sol*
 *-checkpoint*
 lectures/sql/station-metadata.csv
 lectures/sql/temps.csv
