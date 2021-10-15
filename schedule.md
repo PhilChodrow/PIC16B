@@ -255,7 +255,7 @@ permalink: schedule/
         <tr>
             <td>10/29</td>
             <td>R</td>
-            <td><i>TBA</i></td>
+            <td><div class="project"><i>Project update</i></div></td>
             <td>
             </td>
             <td></td>
@@ -310,7 +310,7 @@ permalink: schedule/
         <tr>
             <td>11/04</td>
             <td>R</td>
-            <td><div class="project"><i>Project update</i></div></td>
+            <td><i>TBA</i></td>
             <td></td>
             <td></td>
         </tr>
@@ -398,7 +398,7 @@ permalink: schedule/
         <tr>
             <td>11/16</td>
             <td>T</td>
-            <td><i>Machine learning lab</i></td>
+            <td><div class="project"><i>Project update</i></div></td>
             <td></td>
             <td></td>
         </tr>
@@ -416,7 +416,7 @@ permalink: schedule/
         <tr>
             <td>11/18</td>
             <td>R</td>
-            <td><i><div class="project">Project update</div></i></td>
+            <td><i>Machine learning lab</i></td>
             <td></td>
             <td></td>
         </tr>
