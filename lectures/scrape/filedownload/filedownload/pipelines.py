@@ -5,9 +5,9 @@
 
 
 # useful for handling different item types with a single interface
-from itemadapter import ItemAdapter
+# from itemadapter import ItemAdapter
 
 
-class FiledownloadPipeline:
-    def process_item(self, item, spider):
-        return item
+# class FiledownloadPipeline:
+#     def process_item(self, item, spider):
+#         return item
