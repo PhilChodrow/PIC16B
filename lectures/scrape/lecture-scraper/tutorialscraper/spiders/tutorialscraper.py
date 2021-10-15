@@ -138,6 +138,7 @@ class QuotesSpider(scrapy.Spider):
 ## scrapy crawl quotes2 -o quotes.csv    
 
 class QuotesSpider2(scrapy.Spider):
+
     name = "quotes2"
     
     start_urls = [
@@ -190,13 +191,13 @@ class QuotesSpider2(scrapy.Spider):
 
 # DOWNLOAD ALL THE QUOTES 
 # command to run and save the data: 
-## scrapy crawl quotes3 -o quotes.csv           
+## scrapy crawl quotes3 -o quotes.csv  
+
 class QuotesSpider3(scrapy.Spider):
     name = "quotes3"
     
     start_urls = [
-        "http://quotes.toscrape.com/page/1/",
-        "http://quotes.toscrape.com/page/2/"
+        "http://quotes.toscrape.com/page/1/"
     ]
     
     def parse(self, response):
@@ -204,19 +205,15 @@ class QuotesSpider3(scrapy.Spider):
         # first part of this method is same as before
         for quote in response.css("div.quote"):
             text = quote.css("span.text::text").get()
-            for char in ['”', '“']:
-                text = text.replace(char, '')
             
             author = quote.css("small.author::text").get()
-            tags = quote.css("div.tags a.tag::text").getall()
-            tags = ",".join(tags)
             
             yield {
                 "text" : text,
-                "author": author,
-                "tags": tags
+                "author": author
             }
-        
+
+
         # NEW PART HERE
         # now we need to add logic for *following links*. 
         # After yielding the data (above), we also need to 
@@ -227,16 +224,26 @@ class QuotesSpider3(scrapy.Spider):
         # find the link to the next page (it's the "next" button)
         # the href is the part of the HTML element that actually 
         # contains the hyperlink. 
+
         next_page = response.css("li.next a").attrib["href"]
-        
-        if next_page is not None:
-            # make the full URL
+
+        if next_page:
             next_page = response.urljoin(next_page)
-            
-            # yield a Request object. Yielding a request causes the 
-            # Spider to attempt to go to the specified URL. 
-            # The callback controls what happens when you get 
-            # there. So, this line says: 
-            # "go to next_page, and once you get there, do 
-            # self.parse again"
+
             yield scrapy.Request(next_page, callback = self.parse)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
