@@ -216,34 +216,21 @@ permalink: schedule/
         <tr>
             <td>10/22</td>
             <td>F</td>
-            <td>Web Development III</td>
-            <td><div class = "hw">Blog Post 2</div></td>
-            <td></td>
-        </tr>
-    </tbody>
-    <tbody class="week">
-        <tr>
-            <th rowspan="6" class="week_marker_odd"> W5 </th>
-            <td>10/26</td>
-            <td>M</td>
             <td>Linear Algebra I</td>
-            <td></td>
+            <td><div class = "hw">Blog Post 2</div></td>
             <td>
                 <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/math/linear-algebra-I.ipynb">
                     Matrices, vectors, and linear systems
                 </a>
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>10/27</td>
-            <td>T</td>
-            <td><i>Linear algebra lab</i></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>10/28</td>
-            <td>W</td>
+            <th rowspan="6" class="week_marker_odd"> W5 </th>
+            <tr>
+            <td>10/25</td>
+            <td>M</td>
             <td>Linear Algebra II</td>
             <td></td>
             <td>
@@ -251,9 +238,28 @@ permalink: schedule/
                     SVD and eigen-problems
                 </a>
             </td>
+        </tr> 
         </tr>
         <tr>
-            <td>10/29</td>
+            <td>10/26</td>
+            <td>T</td>
+            <td><i>Linear algebra lab</i></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10/27</td>
+            <td>W</td>
+            <td>Optimization for Machine Learning</td>
+            <td></td>
+            <td>
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/math/optimization.ipynb">
+                    Stochastic gradient descent
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>10/28</td>
             <td>R</td>
             <td><div class="project"><i>Project update</i></div></td>
             <td>
@@ -261,31 +267,31 @@ permalink: schedule/
             <td></td>
         </tr>
         <tr>
-            <td>10/30</td>
+            <td>10/29</td>
             <td>F</td>
-            <td>Optimization for Machine Learning</td>
+            <td>Tensorflow I</td>
             <td>
                 <div class = "hw">
                     Blog Post 3
                 </div>
             </td>
             <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/math/optimization.ipynb">
-                    Stochastic gradient descent
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-1.ipynb">
+                    Tensors, layers, and models
                 </a>
             </td>
         </tr>
     </tbody>
     <tbody class="week">
+    <th rowspan="6" class="week_marker_even"> W6 </th>
         <tr>
-            <th rowspan="6" class="week_marker_even"> W6 </th>
             <td>11/01</td>
             <td>M</td>
-            <td>Tensorflow I</td>
+            <td>Tensorflow II</td>
             <td></td>
             <td>
                 <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-1.ipynb">
-                    Tensors, layers, and models
+                    Model training and evaluation
                 </a>
             </td>
         </tr>
@@ -299,11 +305,11 @@ permalink: schedule/
         <tr>
             <td>11/03</td>
             <td>W</td>
-            <td>Tensorflow II</td>
-            <td></td>
+            <td>Tensorflow III</td>
+            <td></td>    
             <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-1.ipynb">
-                    Model training and evaluation
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-2.ipynb">
+                    Image classification I
                 </a>
             </td>
         </tr>
@@ -317,28 +323,27 @@ permalink: schedule/
         <tr>
             <td>11/05</td>
             <td>F</td>
-            <td>Tensorflow III</td>
+            <td>Tensorflow IV</td>
             <td>
                 <div class = "hw">Blog Post 4</div>
-            </td>    
+            </td>
             <td>
                 <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-2.ipynb">
-                    Image classification I
+                    Image classification II
                 </a>
             </td>
         </tr>
     </tbody>
     <tbody class="week">
+        <th rowspan="6" class="week_marker_odd"> W7 </th>
         <tr>
-            <th rowspan="5" class="week_marker_odd"> W7 </th>
             <td>11/08</td>
             <td>M</td>
-            <td>Tensorflow IV</td>
+            <td>Tensorflow V</td>
+            <td></td>
             <td>
-            </td>
-            <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-2.ipynb">
-                    Image classification II
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-3.ipynb">
+                    Text classification
                 </a>
             </td>
         </tr>
@@ -352,13 +357,15 @@ permalink: schedule/
         <tr>
             <td>11/10</td>
             <td>W</td>
-            <td>Tensorflow V</td>
-            <td></td>
+            <td>Word Embedding</td>
+            <td>
+            </td>
             <td>
                 <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-3.ipynb">
-                    Text classification
+                    Word embedding
                 </a>
             </td>
+            <td></td> 
         </tr>
         <tr>
             <td>11/11</td>
@@ -370,28 +377,27 @@ permalink: schedule/
         <tr>
             <td>11/12</td>
             <td>F</td>
-            <td>Word Embedding</td>
+            <td>Mixed features</td>
             <td>
                 <div class = "hw">Blog Post 5</div>
             </td>
             <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-3.ipynb">
-                    Word embedding
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-4.ipynb">
+                    Mixed features
                 </a>
             </td>
-            <td></td> 
         </tr>
     </tbody>
     <tbody class="week">
+        <th rowspan="6" class="week_marker_even"> W8 </th>
         <tr>
-            <th rowspan="6" class="week_marker_even"> W8 </th>
             <td>11/15</td>
             <td>M</td>
-            <td>Mixed features</td>
+            <td>Text Generation</td>
             <td></td>
             <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-4.ipynb">
-                    Mixed features
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-5.ipynb">
+                    Text generation
                 </a>
             </td>
         </tr>
@@ -405,11 +411,11 @@ permalink: schedule/
         <tr>
             <td>11/17</td>
             <td>W</td>
-            <td>Text Generation</td>
-            <td></td>
+            <td>Time Series</td>
+            <td></td> 
             <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/tf/tf-5.ipynb">
-                    Text generation
+                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/timeseries/timeseries-1.ipynb">
+                    Time Series
                 </a>
             </td>
         </tr>
@@ -423,14 +429,12 @@ permalink: schedule/
         <tr>
             <td>11/19</td>
             <td>F</td>
-            <td>Time Series</td>
+            <td>TBD</td>
             <td>
                 <div class = "hw">Blog Post 6</div>
             </td> 
             <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/timeseries/timeseries-1.ipynb">
-                    Time Series
-                </a>
+                TBD
             </td>
         </tr>
     </tbody>
@@ -485,11 +489,11 @@ permalink: schedule/
             <th rowspan="6" class="week_marker_even"> W10 </th>
             <td>11/29</td>
             <td>M</td>
-            <td>TBA</td>
+            <td>Epidemic Modeling on Networks</td>
             <td><div class="project">Project draft (optional)</div></td>
             <td>
-                <a href = "https://nbviewer.jupyter.org/github/PhilChodrow/PIC16B/blob/master/lectures/performance/performance.ipynb">
-                    Performance
+                <a href = "https://nbviewer.org/github/PhilChodrow/PIC16B/blob/master/lectures/nx/epidemics.ipynb">
+                    Network SIR
                 </a>
             </td>
         </tr>
