@@ -369,11 +369,11 @@ I am always happy to talk with you about your future plans, including courses, i
 
 ## Letters of Recommendation
 
-You are also always welcome to ask me to write a recommendation letter supporting your applications for grad school, research internships, and jobs. I will usually agree to do so, although see the exceptions below. I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
+If you have completed a course with me or are currently enrolled, you are welcome to request a letter from me. If I feel that I am not able to write you a strong letter, I will tell you -- but if you still want a letter from me, I will still write it.
 
-### To Request a Letter
+Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or office hours. If you’d like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.
 
-Send me an email! Your email should clearly indicate  when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it's written. If you will need me to submit my letter to multiple programs, please let me know roughly how many you expect to need. If possible, please include some sort of resume/CV --- it doesn't have to be official --- detailing your past experiences relevant to the application. **Please give me at least one month of advance notice** when possible. 
+To request a letter, fill out [this request form](https://forms.gle/tL79wtFrfHC5Vspw7).! Please give me at least one month of advance notice when possible.
 
 ### When I Won't Write a Letter
 
