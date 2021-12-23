@@ -33,7 +33,5 @@ excerpt_separator: "<!--more-->"
 
 include: ['_images', '_css']
 
-# SEO stuff
-# google_author: ""
-# google_site_verification: ""
-# bing_webmastertools_id: ""
+collections:
+  - days
