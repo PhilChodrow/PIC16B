@@ -11,7 +11,7 @@ permalink: syllabus/
 </figure>
 
 1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) are able to learn some cool stuff and get a good grade in this course. 
-2. **It's still a challenging time.** I'm thrilled to be seeing you in person, and I hope that you're glad to be here. Still, you might feel challenged by the transition back to in-person instruction -- I know I do. And you know what? That's ok! Maybe you need some time to re-acclimate to in-person socializing. Maybe you, your friends, or your loved ones are still affected by the pandemic in some way. So, while I hope we can celebrate our time together, I also hope we can all recognize that it may not be a totally smooth ride. If you're struggling with the transition back to in-person instruction, remember that you have support from your instructors, your classmates, and various student resources to help you navigate. 
+2. **It's still a challenging time.** Starting the first two weeks online is not what anyone wanted. Our need to do this reflects the pandemic's influence on our wellbeing and learning. While I want this course to be a bright spot in your quarter, I also hope we can all recognize that it may not be a totally smooth ride. If you're struggling with the online learning environment, or with moving rapidly between online and in-person, remember that you have support from your instructors, your classmates, and various student resources to help you navigate. 
 3. **Your wellbeing comes first.** If at any time during this course, you require accommodations in order to ensure your own wellbeing or that of a loved one, please reach out to me. We will make it happen. 
 4. **We've got your back.** I'll be available to you through multiple channels. Additionally, you have an amazing support team -- your TA and peers will all be helping you in your learning journey.  
 
@@ -20,15 +20,13 @@ Ok, now on to the usual syllabus stuff.
 <div class="fancy-h1"> Course Overview </div>
 
 Python offers a wide array of tools for solving problems in modern computational science. In this course, we will apply some of the most important such tools, with a focus on applications in applied mathematics, data analysis, and machine learning. Along the way, we will use industry-standard workflows for versioning, revising, and sharing code. We will also practice communicating our code to broader audiences. This offering of PIC16B places special emphasis on project-based learning and technical communication.
-
-
 ## Primary Learning Goals
 
 1. **Core Programming**: You will create complex Python programs for solving a range of problems in computational science. 
 2. **Code Analysis**: You will collaboratively analyze and revise Python programs to improve clarity, robustness, and performance. 
 3. **Code Communication**: You will analyze and explain Python programs to nontechnical audiences in clear and engaging prose. 
-5. **Self-Teaching**: You will grow as an effective autodidact ([*self-teacher*](https://rtalbert.org/in-defense-of-teaching-yourself-the-material/)) of programming tools and techniques. 
-4. **Online Presence**: You will maintain a public portfolio of coding projects using industry-standard tools for code management. 
+4. **Self-Teaching**: You will grow as an effective autodidact ([*self-teacher*](https://rtalbert.org/in-defense-of-teaching-yourself-the-material/)) of programming tools and techniques. 
+5. **Online Presence**: You will maintain a public portfolio of coding projects using industry-standard tools for code management. 
 
 ## Prerequisites
 
@@ -79,14 +77,13 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 
 ## Schedule
 
-<dl>
+*Note: Lecture and Discussion meet online during Weeks 1 and 2.* 
 
+<dl>
 <dt>Lecture&nbsp;</dt>
-<dd>MWF, 3pm-3:50pm PT, Franz Hall 1178</dd>
-<dt>Discussion A&nbsp;</dt>
-<dd>TR, 3pm-3:50pm PT, Franz Hall 1260</dd>
-<dt>Discussion B&nbsp;</dt>
-<dd>TR, 4pm-4:50pm PT, Boelter Hall 5273</dd>
+<dd>MWF, 2pm-2:50pm PT, Dodd Hall 154</dd>
+<dt>Discussion &nbsp;</dt>
+<dd>TR, 2pm-2:50pm PT, Mathematical Sciences 5118</dd>
 </dl>
 
 ## Course Team
@@ -101,8 +98,8 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd>Mondays at 11am PT, in person or via Zoom </dd> 
-<dt> &nbsp;</dt> <dd>Wednesdays at 7:30pm PT, via Zoom</dd>
+<dt>Phil </dt> <dd>Mondays at 12:30pm PT, in person</dd> 
+<dt> &nbsp;</dt> <dd>Wednesdays at 6:30pm PT, via Zoom</dd>
 <dt> &nbsp;</dt> <dd><i>and by appointment</i></dd>
 <dt> John </dt> <dd>via Zoom, TBD </dd>
 </dl>
@@ -113,7 +110,7 @@ All students on the waitlist at the end of Week 2 will be automatically enrolled
 
 <div class="fancy-h1"> How You Will Learn in PIC16B</div>
 
- In PIC16B, we'll relatively traditional lecture periods, in which I'll present on a topic. These will take place during the scheduled lecture periods, although I'll record the lectures and post them to CCLE afterwards. You'll have a quarter-long project and a series of blog posts (homeworks) in which to practice your skills. 
+In PIC16B, we'll relatively traditional lecture periods, in which I'll present on a topic. These will take place during the scheduled lecture periods, although I'll record the lectures and post them to BruinLearn afterwards. You'll have a quarter-long project and a series of blog posts (homeworks) in which to practice your skills. 
 
 I believe that: 
 
@@ -203,10 +200,12 @@ The assignment was not submitted by the deadline; fails to meet multiple major s
 
 Two assignments that are <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** count for one assignment in the context of your letter grade. So, for example, one way to earn an **A** is to complete 5 blog posts on time and 2 late. 
 
+#### Resubmitting Assignments
+
+All assignments that allow resubmissions will be submitted and assessed in Gradescope. The initial submission will be a PDF printout of your assignment. If your assignment is assessed as <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**<br>, you'll have the opportunity to revise and resubmit the assignment. To do this, just **submit a regrade request on Gradescope with a URL link to the assignment.** It is not necessary to submit another PDF. 
 #### Assignments Without Resubmissions
 
 A very small number of assignments in this course will not allow resubmissions. The most important examples of these are project presentations, of which there will be several throughout the quarter. These will be graded with relatively relaxed specifications. Presentations that show collaboration, effort, and progress will receive full credit. 
-
 ## Why Specifications Grading?
 
 There are a number of reasons why I have chosen to adopt specifications grading in PIC16B. Here are a few: 
@@ -215,11 +214,6 @@ There are a number of reasons why I have chosen to adopt specifications grading 
 2. **Control**. I've tried to give you more control over your grade in this course. You shouldn't really have to guess about what grade you're going to get on an assignment. Check the specs -- did you meet them fully? If so, you should expect full credit. If not, you should expect a clear explanation of what needs to be improved, and an opportunity to act on that to receive full credit.  
 3. **Communication**. I want you to know *exactly* what I'm looking for in an assignment. Specs grading gives me a responsibility to articulate my expectations as clearly and operationally as possible. 
 
-## Possible Modifications 
-
-My implementation of specs grading in Fall '21 is *experimental*. There will likely be mistakes, and we will work through them together. I will do my best to make sure that you never suffer for mistakes that I make. In particular: 
-
-> I will never modify the grading scheme in a way that makes it significantly harder to earn a given letter grade. 
 
 <div class="fancy-h1">Assignments</div>
 
@@ -245,7 +239,7 @@ We'll do our best to get you your first assessments quickly so as to minimize th
 
 ## Examples
 
-Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Tuesday, they receive their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. This assessment reflects that they clearly put effort into the entire assignment and met the majority of specs. They also receive feedback on what revisions are necessary. They successfully incorporate these revisions, and turn in a revised version within a week of receiving their assessment (i.e. by the next Tuesday). Their revised blog post is fully up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They receive earn credit for the assignment.  
+Erin works hard on Blog Post 3, and submits it ahead of the deadline on Friday. They meet almost all the specs, but they didn't completely solve the very last part of the problem. The following Tuesday, they receive their first assessment: <span style="color: gold;"><i class="fas fa-arrow-alt-circle-up"></i></span> **In Progress**. This assessment reflects that they clearly put effort into the entire assignment and met the majority of specs. They also receive feedback on what revisions are necessary. They successfully incorporate these revisions, and turn in a revised version before the end of instruction. Their revised blog post is fully up to spec, and their revised assessment is <span style="color: green;"><i class="fas fa-check-circle"></i></span> **Complete**. They earn full credit for the assignment.  
 
 Zenith had a really rough week, and wasn't really able to put enough effort into Blog Post 3. By the time she turns it in on Friday, her assignment is below spec in several ways and is not written in a tutorial format. Because she didn't not put sufficient effort into her assignment by the deadline, the assessment she receives on Tuesday is <span style="color: gold;"><i class="far fa-arrow-alt-circle-up"></i></span> **In Progress (Late)**. She can now decide whether she wants to bring it up to spec in order to get a <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)** for half credit or whether her time would be better spent focusing on the next assignment. 
 
@@ -272,7 +266,6 @@ Your overall project grade contains a number of components. These include:
 6. Final project submission during Finals week. 
 
 Each of these individual components will have their own specs. The specs for each component will be [here]({{site.assignments}}), not all of them are posted quite yet. 
-
 
 # Essay 
 
@@ -343,7 +336,7 @@ PIC16B has a fair number of long-term deadlines, including your project and mult
 
 The primary form of accommodation in this course is the fact that there are more than 100 points worth of assignments. If, for example, you skip a homework assignment, you can still finish the course with 100 points and a solid A. Additionally, up-to-spec homework can be submitted up to one week late to receive a half-credit <span style="color: green;"><i class="far fa-check-circle"></i></span> **Complete (Late)**. 
 
-Because of this, **I do not expect to grant extensions to individual students in this class.**
+Because of this, **I do not expect to grant extensions to individual students in this class.** Exceptions will be made for students with disabilities or other long-term situations that may impact their learning. 
 
 ### Long-Term Challenges
 
@@ -355,17 +348,11 @@ The earlier we can talk,  the more I will be able to do for you.
 
 <div class="fancy-h1">Class Resources</div>
 
-## Slack
-
-This quarter, we'll be trying an experiment: official course communication will happen on Slack. There will be channels for announcements, as well as channels for questions and answers. This is my first time using Slack in a course, so please don't hesitate to give feedback along the way about how we can improve the experience. 
-
-We'll still be using CCLE for submitting assignments and managing grades. 
-
 <div class="fancy-h1"> Advice,  Letters, and Research</div>
 
 ## Advice
 
-I am always happy to talk with you about your future plans, including courses, internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. If you'd like to set up a chat, please use the Calendly link provided under Site Info on CCLE. 
+I am always happy to talk with you about your future plans, including courses, internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. If you'd like to set up a chat, please use the Calendly link provided on BruinLearn. 
 
 ## Letters of Recommendation
 
@@ -373,7 +360,7 @@ If you have completed a course with me or are currently enrolled, you are welcom
 
 Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or office hours. If you’d like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.
 
-To request a letter, fill out [this request form](https://forms.gle/tL79wtFrfHC5Vspw7).! Please give me at least one month of advance notice when possible.
+To request a letter, fill out [this request form](https://forms.gle/tL79wtFrfHC5Vspw7)! Please give me at least one month of advance notice when possible.
 
 ### When I Won't Write a Letter
 
@@ -388,15 +375,6 @@ I am very happy to discuss this policy with any student who has questions. Conve
 
 The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
 
-## Research
-
-I have some limited capacity to accept undergraduates to perform research with me. [My research](https://www.philchodrow.com/research/) focuses broadly on *network science*, the study of interconnected systems in nature and human society. Some things I'm interested in include applications of random graph theory, social network analysis, nonlinear dynamics on networks, and machine learning.  
-
-If you would like to work with me on these topics, then it is usually necessary to take [Math 168, Introduction to Networks](https://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?qry=introduction%20to%20networks&funsel=1). You are also welcome to propose a project topic to me. If it is relevant to my interests but does not require background in network science, then taking Math 168 may not be necessary in order for us to work together.
-
-I'd like to emphasize that my ability to take students is indeed *limited*. If I decline to work with you, that is again not a reflection on your ability to succeed in PIC16B, your potential as a researcher, your worth as a person, or whether I like you. 
-
-
 <div class="fancy-h1"> Listening </div>
 
 You are always welcome to speak with me about any experience or aspect of your life that may effect your safety, ability to learn, or ability to participate equitably in the UCLA community. 
@@ -409,7 +387,6 @@ You are always welcome to speak with me about any experience or aspect of your l
 - I commit to respecting your privacy to the extent consistent with my reporting obligations under Title IX (see below). 
 
 <div class="fancy-h1"> Resources for Equity, Health, and Wellbeing </div>
-
 
 ## Sexual Misconduct
 
