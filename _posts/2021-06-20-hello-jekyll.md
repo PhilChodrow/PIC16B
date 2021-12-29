@@ -21,6 +21,12 @@ You should have already installed Jekyll when completing the [software installat
 
 If you are on [macOS](https://jekyllrb.com/docs/installation/macos/), [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/), or [another Linux distribution](https://jekyllrb.com/docs/installation/other-linux/), these steps should be relatively simple. If you are on [Windows](https://jekyllrb.com/docs/installation/windows/), installation might be slightly more complex. We recommend using the instructions under "Installation via Bash on Windows 10."
 
+Some users on recent Mac laptops may need to run the following command after following the other steps in order for Jekyll to run correctly. 
+
+```
+gem install --user-install ffi -- --enable-libffi-alloc
+```
+
 ## Optional Pre-Work: Install a Text Editor
 
 Text editors allow you to make modifications to plaintext files. They are useful for coding, writing, and any other tasks that require the manipulation of plaintext. 

@@ -95,7 +95,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16B.
 <dd>  John Zhang </dd>
 </dl>
 
-## Office Hours (via Zoom)
+## Office Hours
 
 <dl>
 <dt>Phil </dt> <dd>Mondays at 12:30pm PT, in person</dd> 
