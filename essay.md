@@ -4,7 +4,7 @@ title: Essay
 permalink: essay/
 ---
 
-At any time prior to the end of instruction (Friday, December 3rd), you may submit an essay of between 1500 and 2100 words (approximately 5-7 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. 
+At any time prior to the end of Week 9, you may submit an essay of between 1500 and 2100 words (approximately 5-7 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. 
 
 Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics are likely to receive only partial credit. 
 
@@ -19,7 +19,7 @@ Somewhat more generally, a successful essay will discuss:
 
 You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
-This essay is specs-graded, just like other assignments. 
+This essay is specs-graded, just like other assignments. If your essay doesn't meet specs the first time, I'll give you some feedback and you'll have the chance to revise your essay prior to the end of the quarter. 
 
 <div class="fancy-h1"> Specifications </div>
 
