@@ -71,7 +71,7 @@ Here is  a continuously-updated list of project assignments. Each of these has t
 
   {% if post.categories.first == "project" %}
     <dt>
-        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time> 
+        <!-- <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time>  -->
     </dt>
     <dl>
         <a href="/PIC16B/{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>

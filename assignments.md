@@ -21,7 +21,7 @@ These assignments are not themselves graded, but you will need to complete them 
 
   {% if post.categories.first == "preparation" %}
     <dt>
-        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time> 
+        <!-- <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time>  -->
     </dt>
     <dl>
         <a href="/PIC16B/{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
@@ -50,7 +50,7 @@ Remember that there are 7 total blog posts. An A in the course requires credit f
 
   {% if post.categories.first == "blog" %}
     <dt>
-        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time> 
+        <!-- <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time>  -->
     </dt>
     <dl>
         <a href="/PIC16B/{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
@@ -74,7 +74,7 @@ Remember that *you need to earn credit for all project components* in order to e
 
   {% if post.categories.first == "project" %}
     <dt>
-        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time> 
+        <!-- <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.due | date:"%m/%d" }}</time>  -->
     </dt>
     <dl>
         <a href="/PIC16B/{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
