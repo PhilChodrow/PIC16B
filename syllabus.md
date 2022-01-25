@@ -155,9 +155,9 @@ If I could drop grades and simply give you feedback on how you can grow, I would
 
 There will be 7 blog posts (homeworks) and a series of project assignments throughout the quarter. Here's how to earn letter grades: 
 
-**A** : Earn credit for **6** out of 7 blog posts and all project assignments<br>
-**A-** : Earn credit for **5** out of 7 blog posts and all project assignments <br>
-**B+** : Earn credit for **4** out of 7 blog posts and all project assignments
+**A** : Earn credit for **5.5** out of 7 blog posts and all project assignments<br>
+**A-** : Earn credit for **4.5** out of 7 blog posts and all project assignments <br>
+**B+** : Earn credit for **3.5** out of 7 blog posts and all project assignments
 
 I do not anticipate any grades lower than a B+. Keep reading for what it means to "earn credit." 
 
