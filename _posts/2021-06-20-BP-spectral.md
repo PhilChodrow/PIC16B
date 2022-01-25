@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog Post 4"
+title:  "Blog Post: Spectral Clustering"
 date:   2020-11-16
 due: 2021-11-05
 categories: blog assignment
