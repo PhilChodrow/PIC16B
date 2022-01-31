@@ -4,7 +4,7 @@ title: Essay
 permalink: essay/
 ---
 
-At any time prior to the end of Week 9, you may submit an essay of between 1500 and 2100 words (approximately 5-7 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. 
+At any time prior to the end of Week 10, you may submit an essay of between 1500 and 2100 words (approximately 5-7 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. 
 
 Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics are likely to receive only partial credit. 
 
